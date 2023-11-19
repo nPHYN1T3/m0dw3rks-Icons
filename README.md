@@ -1,17 +1,16 @@
-m0dw3rks-Icons
+m0dw3rks-Icons [ m0dw3rks.com ]
+My personal icons primarily for mimetypes
 
-My personal icons primarily for mimetypes.
+Right now the state of the set is incomplete. There are lots of included icons that are uninspired or "roughed in" for now. I design things to fit what it represents rather than adhering to a cohesive style.
 
-You may want to alter the index.theme file and set the Inherits value to your prefered fallback icon set.
+Icons from 16x16 to 512x512. I've removed the scalable simply because files that have text have not been converted to paths (for now.) Below is a preview of some of the icons.
 
-Right now the state of the set is incomplete. There are lots of included icons that are just uninspired and "roughed in" for now. My set is not something I'd call theme cohesive. I make things I feel fits what I want, not something that fits a style guide.
-
+Installation
 Unzip / Decompress to either ~/.local/share/icons or /usr/share/icons for system wide use.
+You may want to alter the index.theme file and set the Inherits value to your preferred fallback icon set.
 
-*Beware I've not flattend all the files with text so if you don't have a given font the scalable versions might "explode" visually.
-
-<img alt="Small preview of selected icons" title="Small preview of selected icons" text="Small preview of selected icons" src="ico-prev.jpg">
+<img src="ico-prev.jpg">
 
 CC BY-NC-ND 4.0
 
-m0dw3rks.com
+
