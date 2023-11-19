@@ -9,5 +9,5 @@ Icons from 16x16 to 512x512. While I typically focus on things I use there is al
 CC BY-NC-ND 4.0
 
 <h1>Installation</h1>
-Unzip / Decompress to either ~/.local/share/icons or /usr/share/icons for system wide use.
+Unzip / Decompress or clone the git to either ~/.local/share/icons or /usr/share/icons for system wide use.
 You may want to alter the index.theme file and set the Inherits value to your preferred fallback icon set to fill in potential gaps.
