@@ -4,7 +4,7 @@ My personal icons primarily for mimetypes
 Right now the state of the set is incomplete. There are lots of included icons that are uninspired or "roughed in" for now. I design things to fit what it represents rather than adhering to a cohesive style.
 
 Icons from 16x16 to 512x512. I've removed the scalable simply because files that have text have not been converted to paths (for now.) Below is a preview of some of the icons.
-<img src="ico-prev.jpg">
+<img alt="A preview of some select icon files" title="A preview of some select icon files" text="A preview of some select icon files" src="ico-prev.jpg">
 CC BY-NC-ND 4.0
 
 <h1>Installation</h1>
