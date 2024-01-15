@@ -10,6 +10,10 @@ Icons are supposed to be a visual representation of real world analogs but much 
 Unzip / Decompress or clone the git to either ~/.local/share/icons or /usr/share/icons for system wide use.
 You may want to alter the index.theme file and set the Inherits value to your preferred fallback icon set to fill in potential gaps.
 
+Copy, symlink or move the xml (in the xml folder) (typically to /usr/share/mime/packages/) and update your mime database.
+sudo cp *.xml /usr/share/mime/packages/
+sudo update-mime-database /usr/share/mime/
+
 CC BY-NC-ND 4.0
 
 <img alt="A preview of some select icon files" title="A preview of some select icon files" text="A preview of some select icon files" src="ico-prev.jpg">
