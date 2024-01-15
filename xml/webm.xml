@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+<mime-type type="audio/webm">
+  <comment>WebM audio</comment>
+  <sub-class-of type="audio/generic"/>
+  <acronym>webm</acronym>
+  <sub-class-of type="video/webm"/>
+  <expanded-acronym>Web Media</expanded-acronym>
+  <glob pattern="*.webm"/>
+  <icon name="audio-x-webm"/>
+  <alias type="audio/webm"/>
+</mime-type>
+</mime-info>

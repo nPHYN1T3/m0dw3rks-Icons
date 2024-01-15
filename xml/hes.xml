@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+<!-- audio/hes audio/x-hes -->
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/octet-stream">
+  <comment>Turbo-Grafx 16 audio</comment>
+  <sub-class-of type="audio/generic"/>
+  <acronym>hes</acronym>
+  <expanded-acronym>Hu-Card Entertainment System</expanded-acronym>
+  <glob pattern="*.hes"/>
+  <icon name="audio-x-hes"/>
+  <alias type="application/octet-stream"/>
+</mime-type>
+</mime-info>

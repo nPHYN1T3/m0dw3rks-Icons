@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+	<mime-type type="application/x-fbx">
+		<comment>Kaydara - Autodesk Gameware 3D Model</comment>
+		<glob pattern="*.fbx"/>
+		<icon name="application-x-fbx"/>
+		<alias type="application/octet-stream"/>
+	</mime-type>
+</mime-info>
