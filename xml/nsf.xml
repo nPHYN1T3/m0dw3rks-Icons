@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
 <!-- audio/nsf audio/x-nsf application/octet-stream -->
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/octet-stream">
+<!--<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/octet-stream">-->
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="audio/nes">
   <comment>NES audio</comment>
   <sub-class-of type="audio/generic"/>
   <acronym>nsf</acronym>
@@ -9,6 +10,6 @@
   <glob pattern="*.nsf"/>
   <glob pattern="*.nsfe"/>
   <icon name="audio-x-nsf"/>
-  <alias type="application/octet-stream"/>
+<!--<alias type="audio/generic"/>-->
 </mime-type>
 </mime-info>
