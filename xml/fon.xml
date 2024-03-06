@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-ms-fon">
+     <comment>Win Font</comment>
+     <sub-class-of type="font/x-generic"/>
+     <glob pattern="*.fon"/>
+<!--     <alias type="application-x-ms-ne-executable"/>-->
+     <generic-icon name="font-x-generic"/>
+     <icon name="application-x-ms-fon"/>
+</mime-type>
+</mime-info>
