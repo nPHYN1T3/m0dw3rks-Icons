@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+<mime-type type="video/x-premiere">
+  <comment>Adobe Premiere Project</comment>
+  <acronym>prproj</acronym>
+  <expanded-acronym>PRemiere PROJect</expanded-acronym>
+  <glob pattern="*.prproj"/>
+  <icon name="video-x-prproj"/>
+</mime-type>
+</mime-info>
