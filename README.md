@@ -8,6 +8,8 @@ Right now the state of the set is incomplete (possibly several thousand need to 
 
 If there is an _uncommon_ or _rare_ icon you'd like to see toss the info in the <a href="https://github.com/nPHYN1T3/m0dw3rks-Icons/discussions">Discussions</a> section.
 
+*I've added some Win ico files for applications. I may split this into Lin/Root/Win/MacOS versions later when the scalable are fixed up...you know after I've completed a few thousand more icons...le ug.
+
 # Installation
 Unzip / Decompress or clone the git to either ~/.local/share/icons or /usr/share/icons for system wide use.
 You may want to alter the index.theme file and set the Inherits value to your preferred fallback icon set to fill in potential gaps.
