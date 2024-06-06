@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="text-x-patch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#292929"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#1a1a1a"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="446.37288"
+     inkscape:cy="269.01695"
+     inkscape:window-width="3256"
+     inkscape:window-height="1080"
+     inkscape:window-x="1864"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient39"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#9f8574;stop-opacity:1;"
+         offset="0.01"
+         id="stop39" />
+      <stop
+         style="stop-color:#746358;stop-opacity:1;"
+         offset="0.49849376"
+         id="stop40" />
+      <stop
+         style="stop-color:#9e8473;stop-opacity:1;"
+         offset="1"
+         id="stop41" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient37"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#382715;stop-opacity:1;"
+         offset="0"
+         id="stop36" />
+      <stop
+         style="stop-color:#160f09;stop-opacity:1;"
+         offset="0.5"
+         id="stop37" />
+      <stop
+         style="stop-color:#382715;stop-opacity:1;"
+         offset="1"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient32"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#382715;stop-opacity:1;"
+         offset="0"
+         id="stop32" />
+      <stop
+         style="stop-color:#251a0e;stop-opacity:1;"
+         offset="1"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient30"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.2;"
+         offset="0"
+         id="stop29" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.2;"
+         offset="1"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient26"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.2;"
+         offset="0"
+         id="stop27" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.2;"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient23"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop23" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.2;"
+         offset="0"
+         id="stop19" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.2;"
+         offset="1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#9a7f4b;stop-opacity:1;"
+         offset="0"
+         id="stop18" />
+      <stop
+         style="stop-color:#8d684f;stop-opacity:1;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="linearGradient20"
+       x1="37.284492"
+       y1="67.733328"
+       x2="72.916081"
+       y2="67.733328"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-150.88978,-67.73333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17"
+       id="linearGradient21"
+       gradientUnits="userSpaceOnUse"
+       x1="35.955429"
+       y1="0"
+       x2="74.245079"
+       y2="135.46666"
+       gradientTransform="rotate(-45,61.416864,52.484016)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="linearGradient22"
+       gradientUnits="userSpaceOnUse"
+       x1="37.284492"
+       y1="67.733328"
+       x2="72.916081"
+       y2="67.733328"
+       gradientTransform="translate(-150.88968,-67.733226)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23"
+       id="radialGradient24"
+       cx="-19.265697"
+       cy="17.461973"
+       fx="-19.265697"
+       fy="17.461973"
+       r="19.530281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83773675,0,0,0.83773675,83.872916,53.104795)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23"
+       id="radialGradient25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83773675,0,0,0.83773675,83.87284,53.104867)"
+       cx="-19.265697"
+       cy="17.461973"
+       fx="-19.265697"
+       fy="17.461973"
+       r="19.530281" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26"
+       id="linearGradient27"
+       x1="14.213919"
+       y1="14.213918"
+       x2="121.25275"
+       y2="121.25275"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient30"
+       id="linearGradient29"
+       x1="-141.29875"
+       y1="5.3217707"
+       x2="-34.259922"
+       y2="112.3606"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(155.51267,8.8921496)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32"
+       id="linearGradient33"
+       x1="14.213919"
+       y1="14.213918"
+       x2="121.25275"
+       y2="121.25275"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37"
+       id="linearGradient34"
+       gradientUnits="userSpaceOnUse"
+       x1="121.25275"
+       y1="14.213918"
+       x2="14.213918"
+       y2="121.25275"
+       gradientTransform="translate(-2.49838e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39"
+       id="linearGradient40"
+       x1="-72.440887"
+       y1="14.213921"
+       x2="34.597946"
+       y2="121.25275"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(86.654802)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g41"
+       transform="matrix(1.2606405,0,0,1.2606405,-17.65405,-17.65405)"
+       style="stroke-width:0.793248">
+      <path
+         id="path20"
+         style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient21);stroke:url(#linearGradient29);stroke-width:0.20988;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 19.83873,19.838547 c -7.49975,7.499745 -7.49975,19.575493 0,27.075237 l 68.71416,68.714156 c 7.49974,7.49974 19.57549,7.49974 27.07523,0 7.49975,-7.49975 7.49938,-19.575125 -3.6e-4,-27.074869 L 46.9136,19.838912 c -7.49974,-7.499745 -19.57513,-7.50011 -27.07487,-3.65e-4 z m 7.2833,18.185603 c 0.81956,-0.819692 2.14844,-0.819862 2.96821,-3.66e-4 0.81983,0.819709 0.81984,2.14886 0,2.968572 -0.81971,0.819843 -2.14886,0.819838 -2.96857,0 -0.8195,-0.819768 -0.81934,-2.14864 3.6e-4,-2.968206 z m 10.9023,-10.9023 c 0.81956,-0.819692 2.14844,-0.819861 2.96821,-3.65e-4 0.81983,0.819708 0.81984,2.14886 0,2.968571 -0.81977,0.819499 -2.14864,0.81933 -2.96821,-3.66e-4 -0.81935,-0.819623 -0.81935,-2.148219 0,-2.96784 z m -1.70938,9.192924 c 0.81957,-0.819692 2.14845,-0.819862 2.96821,-3.66e-4 0.81984,0.819709 0.81984,2.14886 0,2.968571 -0.81971,0.819844 -2.14886,0.81984 -2.96857,0 -0.8195,-0.819767 -0.81934,-2.148639 3.6e-4,-2.968205 z m -1.70937,9.192923 c 0.81956,-0.819692 2.14844,-0.819861 2.9682,-3.66e-4 0.81984,0.819708 0.81984,2.14886 0,2.968571 -0.8197,0.819844 -2.14886,0.819839 -2.96857,1e-6 -0.8195,-0.819767 -0.81933,-2.14864 3.7e-4,-2.968206 z m 10.9023,-10.9023 c 0.81956,-0.819691 2.14844,-0.819861 2.9682,-3.65e-4 0.81984,0.819708 0.81984,2.148859 0,2.96857 -0.81977,0.8195 -2.14863,0.81933 -2.9682,-3.64e-4 -0.0707,-0.0706 -0.1363,-0.146202 -0.19622,-0.22619 -0.6253,-0.835573 -0.5417,-2.003645 0.19622,-2.741652 z M 43.7985,43.79832 c 0.81956,-0.819692 2.14844,-0.819861 2.96821,-3.66e-4 0.81983,0.81971 0.81984,2.148861 0,2.968572 -0.81971,0.819844 -2.14886,0.819839 -2.96857,0 -0.8195,-0.819767 -0.81934,-2.148639 3.6e-4,-2.968206 z m -1.70937,9.192923 c 0.81956,-0.819691 2.14844,-0.819861 2.9682,-3.65e-4 0.81984,0.819709 0.81984,2.148859 0,2.968571 -0.81971,0.819843 -2.14886,0.81984 -2.96857,0 -0.8195,-0.819767 -0.81934,-2.148639 3.7e-4,-2.968206 z M 52.99142,42.088944 c 0.81957,-0.819692 2.14845,-0.819861 2.96821,-3.66e-4 0.81984,0.81971 0.81984,2.14886 0,2.968571 -0.81977,0.819499 -2.14864,0.819331 -2.96821,-3.65e-4 -0.0707,-0.0706 -0.1363,-0.146201 -0.19622,-0.226189 -0.62529,-0.835573 -0.54169,-2.003645 0.19623,-2.741653 z m 26.51544,48.320033 c 0.81956,-0.819692 2.14844,-0.819862 2.9682,-3.66e-4 0.81984,0.81971 0.81984,2.148859 0,2.968571 -0.81971,0.819844 -2.14886,0.81984 -2.96857,10e-7 -0.8195,-0.819768 -0.81933,-2.148639 3.7e-4,-2.968206 z m 10.9023,-10.9023 c 0.81956,-0.819692 2.14844,-0.819862 2.9682,-3.65e-4 0.81984,0.819709 0.81984,2.148858 0,2.96857 -0.81977,0.8195 -2.14863,0.819331 -2.9682,-3.64e-4 -0.81936,-0.819625 -0.81935,-2.148219 0,-2.967841 z M 88.69978,88.6996 c 0.81956,-0.819692 2.14844,-0.819861 2.96821,-3.66e-4 0.81983,0.81971 0.81984,2.148858 0,2.96857 -0.81972,0.819841 -2.14886,0.819839 -2.96857,2e-6 -0.8195,-0.819767 -0.81934,-2.148639 3.6e-4,-2.968206 z m -1.70938,9.192922 c 0.81957,-0.819692 2.14844,-0.819867 2.96821,-3.66e-4 0.81984,0.819714 0.82021,2.149224 3.7e-4,2.968944 -0.81971,0.81984 -2.14923,0.81947 -2.96894,-3.7e-4 -0.8195,-0.81977 -0.81934,-2.148644 3.6e-4,-2.968208 z m 10.9023,-10.9023 c 0.81957,-0.819691 2.14844,-0.819867 2.96821,-3.65e-4 0.81984,0.819713 0.82021,2.149228 3.7e-4,2.968941 -0.81977,0.819501 -2.149,0.818964 -2.96858,-7.35e-4 -0.0707,-0.07057 -0.13632,-0.146223 -0.19622,-0.22619 -0.6253,-0.83558 -0.5417,-2.003645 0.19622,-2.741652 z m -1.709,9.193294 c 0.81956,-0.819692 2.14843,-0.819867 2.9682,-3.66e-4 0.81984,0.819706 0.81984,2.148854 0,2.968567 -0.81972,0.81984 -2.14886,0.819838 -2.96857,4e-6 -0.8195,-0.81977 -0.81934,-2.148641 3.7e-4,-2.968205 z m -1.70938,9.192914 c 0.81956,-0.81969 2.14843,-0.81986 2.9682,-3.6e-4 0.81984,0.81971 0.81984,2.14886 0,2.96857 -0.81971,0.81984 -2.14886,0.81984 -2.96857,0 -0.8195,-0.81977 -0.81934,-2.14864 3.7e-4,-2.96821 z m 10.9023,-10.902296 c 0.81956,-0.819691 2.14843,-0.819867 2.9682,-3.65e-4 0.81984,0.819713 0.81984,2.148861 0,2.968573 -0.81977,0.819501 -2.14863,0.819332 -2.9682,-3.67e-4 -0.0707,-0.07057 -0.13633,-0.146223 -0.19623,-0.22619 -0.6253,-0.83558 -0.5417,-2.003645 0.19623,-2.741651 z" />
+      <path
+         id="path38"
+         style="display:inline;mix-blend-mode:hard-light;fill:url(#linearGradient40);stroke:none;stroke-width:0.20988;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 19.838729,19.838547 c -7.49975,7.499745 -7.49975,19.575493 0,27.075237 l 68.714159,68.714156 c 7.49974,7.49974 19.575492,7.49974 27.075232,0 7.49975,-7.49975 7.49938,-19.57513 -3.6e-4,-27.07487 L 46.913599,19.838912 c -7.49974,-7.499745 -19.57513,-7.50011 -27.07487,-3.65e-4 z m 7.2833,18.185603 c 0.81956,-0.819692 2.14844,-0.819862 2.96821,-3.66e-4 0.81983,0.819709 0.81984,2.14886 0,2.968572 -0.81971,0.819843 -2.14886,0.819838 -2.96857,0 -0.8195,-0.819768 -0.81934,-2.14864 3.6e-4,-2.968206 z m 10.9023,-10.9023 c 0.81956,-0.819692 2.14844,-0.819861 2.96821,-3.65e-4 0.81983,0.819708 0.81984,2.14886 0,2.968571 -0.81977,0.819499 -2.14864,0.81933 -2.96821,-3.66e-4 -0.81935,-0.819623 -0.81935,-2.148219 0,-2.96784 z m -1.70938,9.192924 c 0.81957,-0.819692 2.14845,-0.819862 2.96821,-3.66e-4 0.81984,0.819709 0.81984,2.14886 0,2.968571 -0.81971,0.819844 -2.14886,0.81984 -2.96857,0 -0.8195,-0.819767 -0.81934,-2.148639 3.6e-4,-2.968205 z m -1.70937,9.192923 c 0.81956,-0.819692 2.14844,-0.819861 2.9682,-3.66e-4 0.81984,0.819708 0.81984,2.14886 0,2.968571 -0.8197,0.819844 -2.14886,0.819839 -2.96857,1e-6 -0.8195,-0.819767 -0.81933,-2.14864 3.7e-4,-2.968206 z m 10.9023,-10.9023 c 0.81956,-0.819691 2.14844,-0.819861 2.9682,-3.65e-4 0.81984,0.819708 0.81984,2.148859 0,2.96857 -0.81977,0.8195 -2.14863,0.81933 -2.9682,-3.64e-4 -0.0707,-0.0706 -0.1363,-0.146202 -0.19622,-0.22619 -0.6253,-0.835573 -0.5417,-2.003645 0.19622,-2.741652 z m -1.70938,9.192923 c 0.81956,-0.819692 2.14844,-0.819861 2.96821,-3.66e-4 0.81983,0.81971 0.81984,2.148861 0,2.968572 -0.81971,0.819844 -2.14886,0.819839 -2.96857,0 -0.8195,-0.819767 -0.81934,-2.148639 3.6e-4,-2.968206 z m -1.70937,9.192923 c 0.81956,-0.819691 2.14844,-0.819861 2.9682,-3.65e-4 0.81984,0.819709 0.81984,2.148859 0,2.968571 -0.81971,0.819843 -2.14886,0.81984 -2.96857,0 -0.8195,-0.819767 -0.81934,-2.148639 3.7e-4,-2.968206 z m 10.90229,-10.902299 c 0.81957,-0.819692 2.14845,-0.819861 2.96821,-3.66e-4 0.81984,0.81971 0.81984,2.14886 0,2.968571 -0.81977,0.819499 -2.14864,0.819331 -2.96821,-3.65e-4 -0.0707,-0.0706 -0.1363,-0.146201 -0.19622,-0.226189 -0.62529,-0.835573 -0.54169,-2.003645 0.19623,-2.741653 z M 79.506858,90.40898 c 0.81956,-0.8197 2.14844,-0.81987 2.9682,-3.7e-4 0.81984,0.81971 0.81984,2.14886 0,2.96857 -0.81971,0.81985 -2.14886,0.81984 -2.96857,0 -0.8195,-0.81977 -0.81933,-2.14864 3.7e-4,-2.9682 z m 10.9023,-10.902303 c 0.81956,-0.819692 2.14844,-0.819862 2.9682,-3.65e-4 0.81984,0.819709 0.81984,2.148858 0,2.96857 -0.81977,0.8195 -2.14863,0.819331 -2.9682,-3.64e-4 -0.81936,-0.819625 -0.81935,-2.148219 0,-2.967841 z m -1.70938,9.192923 c 0.81956,-0.81969 2.14844,-0.81986 2.96821,-3.7e-4 0.81983,0.81971 0.81984,2.14886 0,2.96857 -0.81972,0.81984 -2.14886,0.81984 -2.96857,1e-5 -0.8195,-0.81977 -0.81934,-2.14864 3.6e-4,-2.96821 z m -1.70938,9.19292 c 0.81957,-0.81969 2.14844,-0.81987 2.96821,-3.6e-4 0.81984,0.81971 0.82021,2.14922 3.7e-4,2.96894 -0.81971,0.81984 -2.14923,0.81947 -2.96894,-3.7e-4 -0.8195,-0.81977 -0.81934,-2.14864 3.6e-4,-2.96821 z m 10.902301,-10.9023 c 0.81957,-0.81969 2.148441,-0.81987 2.968211,-3.6e-4 0.81984,0.81971 0.82021,2.14922 3.7e-4,2.96894 -0.81977,0.8195 -2.149001,0.81896 -2.968581,-7.4e-4 -0.0707,-0.0706 -0.13632,-0.14622 -0.19622,-0.22619 -0.6253,-0.83558 -0.5417,-2.00364 0.19622,-2.74165 z m -1.709001,9.1933 c 0.819561,-0.8197 2.148431,-0.81987 2.968201,-3.7e-4 0.81984,0.81971 0.81984,2.14885 0,2.96857 -0.81972,0.81984 -2.14886,0.81983 -2.968571,0 -0.8195,-0.81977 -0.81934,-2.14864 3.7e-4,-2.9682 z m -1.70938,9.19291 c 0.81956,-0.81969 2.14843,-0.81986 2.968201,-3.6e-4 0.81984,0.81971 0.81984,2.14886 0,2.96857 -0.819711,0.81984 -2.148861,0.81984 -2.968571,0 -0.8195,-0.81977 -0.81934,-2.14864 3.7e-4,-2.96821 z m 10.902302,-10.9023 c 0.81956,-0.81969 2.14843,-0.81986 2.9682,-3.6e-4 0.81984,0.81971 0.81984,2.14886 0,2.96857 -0.81977,0.8195 -2.14863,0.81933 -2.9682,-3.7e-4 -0.0707,-0.0706 -0.13633,-0.14622 -0.19623,-0.22619 -0.6253,-0.83558 -0.5417,-2.00364 0.19623,-2.74165 z" />
+      <rect
+         style="fill:#7b4a28;fill-opacity:1;stroke:url(#linearGradient22);stroke-width:0.419761;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect20"
+         width="33.726589"
+         height="35.771069"
+         x="-112.65269"
+         y="-17.885433"
+         rx="4.4256015"
+         ry="4.4256015"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+      <circle
+         style="opacity:0.1;fill:url(#radialGradient25);stroke:none;stroke-width:0.419761;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="circle24"
+         cx="67.733269"
+         cy="67.733406"
+         r="16.139584" />
+    </g>
+    <g
+       id="g38"
+       style="display:inline;stroke-width:0.793248"
+       transform="matrix(1.2606405,0,0,1.2606405,-17.654052,-17.654047)">
+      <path
+         id="path33"
+         style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient34);fill-opacity:1;stroke:none;stroke-width:0.20988;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 115.62794,19.838544 c 7.49975,7.499745 7.49975,19.575493 0,27.075238 L 46.913778,115.62794 c -7.49974,7.49974 -19.57549,7.49974 -27.07523,-10e-6 -7.49975,-7.49974 -7.49939,-19.575117 3.6e-4,-27.074862 l 68.71416,-68.714159 c 7.49974,-7.499745 19.575122,-7.500111 27.074872,-3.65e-4 z m -7.2833,18.185603 c -0.81957,-0.819692 -2.14844,-0.819861 -2.96821,-3.66e-4 -0.81983,0.819709 -0.81984,2.148861 0,2.968572 0.81971,0.819844 2.14886,0.819839 2.96857,0 0.8195,-0.819767 0.81934,-2.148639 -3.6e-4,-2.968206 z m -10.902302,-10.9023 c -0.81957,-0.819691 -2.14845,-0.819861 -2.96821,-3.65e-4 -0.81984,0.819708 -0.81984,2.14886 0,2.968571 0.81977,0.8195 2.14864,0.81933 2.96821,-3.65e-4 0.81935,-0.819624 0.81935,-2.14822 0,-2.967841 z m 1.70937,9.192924 c -0.81956,-0.819692 -2.14844,-0.819861 -2.9682,-3.66e-4 -0.81984,0.81971 -0.81984,2.14886 0,2.968572 0.8197,0.819843 2.14886,0.819839 2.96857,0 0.8195,-0.819768 0.81933,-2.14864 -3.7e-4,-2.968206 z m 1.709382,9.192923 c -0.81956,-0.819691 -2.148442,-0.819861 -2.968212,-3.65e-4 -0.81983,0.819708 -0.81984,2.148859 0,2.96857 0.81971,0.819844 2.148862,0.819839 2.968582,1e-6 0.81949,-0.819767 0.81933,-2.148639 -3.7e-4,-2.968206 z M 89.958788,34.605395 c -0.81956,-0.819692 -2.14844,-0.819862 -2.96821,-3.66e-4 -0.81983,0.819708 -0.81984,2.148859 0,2.968571 0.81977,0.819499 2.14864,0.819329 2.96821,-3.65e-4 0.0707,-0.0706 0.1363,-0.146201 0.19622,-0.226189 0.6253,-0.835574 0.5417,-2.003645 -0.19622,-2.741653 z m 1.70938,9.192922 c -0.81957,-0.819691 -2.14845,-0.81986 -2.96821,-3.65e-4 -0.81984,0.819709 -0.81984,2.14886 0,2.968571 0.81971,0.819844 2.14886,0.81984 2.96857,0 0.8195,-0.819766 0.81934,-2.148639 -3.6e-4,-2.968206 z m 1.70937,9.192924 c -0.81956,-0.819692 -2.14844,-0.819862 -2.9682,-3.66e-4 -0.81984,0.81971 -0.81984,2.14886 0,2.968571 0.8197,0.819844 2.14886,0.81984 2.96857,10e-7 0.8195,-0.819768 0.81933,-2.14864 -3.7e-4,-2.968206 z m -10.9023,-10.9023 c -0.81956,-0.819691 -2.14844,-0.819861 -2.9682,-3.65e-4 -0.81984,0.819709 -0.81984,2.148859 0,2.96857 0.81977,0.8195 2.14863,0.819331 2.9682,-3.65e-4 0.0707,-0.0706 0.1363,-0.146201 0.19622,-0.226189 0.6253,-0.835573 0.5417,-2.003645 -0.19622,-2.741652 z m -26.51543,48.320033 c -0.81956,-0.819692 -2.14844,-0.819862 -2.96821,-3.65e-4 -0.81983,0.819709 -0.81984,2.148858 0,2.96857 0.81971,0.819845 2.14886,0.81984 2.96857,10e-7 0.8195,-0.819768 0.81934,-2.148639 -3.6e-4,-2.968206 z m -10.9023,-10.902299 c -0.81956,-0.819693 -2.14844,-0.819863 -2.96821,-3.66e-4 -0.81983,0.819709 -0.81984,2.148859 0,2.968571 0.81977,0.8195 2.14864,0.819331 2.96821,-3.65e-4 0.81936,-0.819625 0.81935,-2.148219 0,-2.96784 z m 1.70938,9.192922 c -0.81957,-0.819692 -2.14845,-0.819861 -2.96821,-3.65e-4 -0.81984,0.81971 -0.81984,2.148857 0,2.96857 0.81971,0.81984 2.14886,0.819838 2.96857,1e-6 0.8195,-0.819767 0.81934,-2.148639 -3.6e-4,-2.968206 z m 1.70937,9.192922 c -0.81956,-0.819691 -2.14843,-0.819867 -2.9682,-3.65e-4 -0.81984,0.819713 -0.82021,2.149226 -3.7e-4,2.968936 0.81971,0.81984 2.14923,0.81947 2.96894,-3.7e-4 0.8195,-0.81977 0.81934,-2.148636 -3.7e-4,-2.968201 z M 37.573958,86.99022 c -0.81956,-0.819692 -2.14843,-0.819867 -2.9682,-3.66e-4 -0.81984,0.819714 -0.82021,2.149228 -3.7e-4,2.968941 0.81977,0.819501 2.149,0.818964 2.96857,-7.35e-4 0.0707,-0.07057 0.13633,-0.146223 0.19623,-0.226189 0.6253,-0.835581 0.54169,-2.003646 -0.19623,-2.741653 z m 1.70901,9.193293 c -0.81956,-0.819692 -2.14843,-0.819867 -2.9682,-3.66e-4 -0.81984,0.819707 -0.81984,2.148854 0,2.968567 0.81971,0.81984 2.14886,0.819838 2.96857,5e-6 0.8195,-0.81977 0.81934,-2.148642 -3.7e-4,-2.968206 z m 1.70938,9.192917 c -0.81956,-0.81969 -2.14843,-0.81987 -2.9682,-3.7e-4 -0.81984,0.81972 -0.81985,2.14886 -10e-6,2.96858 0.81972,0.81984 2.14886,0.81983 2.96858,-1e-5 0.8195,-0.81977 0.81934,-2.14864 -3.7e-4,-2.9682 z m -10.9023,-10.902298 c -0.81956,-0.819692 -2.14843,-0.819867 -2.9682,-3.66e-4 -0.81984,0.819714 -0.81985,2.148861 -10e-6,2.968574 0.81977,0.8195 2.14864,0.819331 2.96821,-3.68e-4 0.0707,-0.07057 0.13633,-0.146223 0.19622,-0.226189 0.62531,-0.835581 0.5417,-2.003646 -0.19622,-2.741653 z" />
+      <path
+         id="rect1"
+         style="opacity:0.4;mix-blend-mode:soft-light;fill:url(#linearGradient33);fill-opacity:1;stroke:url(#linearGradient27);stroke-width:0.20988;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 115.62794,19.838544 c 7.49975,7.499745 7.49975,19.575493 0,27.075238 L 46.91378,115.62794 c -7.499744,7.49974 -19.575489,7.49974 -27.075234,-10e-6 -7.499745,-7.49974 -7.499383,-19.575117 3.62e-4,-27.074862 L 88.553067,19.838909 c 7.499744,-7.499744 19.575123,-7.50011 27.074873,-3.65e-4 z m -7.2833,18.185603 c -0.81957,-0.819692 -2.14844,-0.819861 -2.96821,-3.66e-4 -0.81983,0.819709 -0.81984,2.148861 0,2.968572 0.81971,0.819844 2.14886,0.819839 2.96857,0 0.8195,-0.819767 0.81934,-2.148639 -3.6e-4,-2.968206 z m -10.902303,-10.9023 c -0.819563,-0.819691 -2.148442,-0.819861 -2.968206,-3.65e-4 -0.819836,0.819708 -0.81984,2.14886 0,2.968571 0.819769,0.8195 2.148638,0.81933 2.968206,-3.65e-4 0.819355,-0.819624 0.81935,-2.14822 0,-2.967841 z m 1.709376,9.192924 c -0.819563,-0.819692 -2.148442,-0.819861 -2.968206,-3.66e-4 -0.819837,0.81971 -0.81984,2.14886 0,2.968572 0.819708,0.819843 2.148859,0.819839 2.968571,0 0.819499,-0.819768 0.819337,-2.14864 -3.65e-4,-2.968206 z m 1.709377,9.192923 c -0.81956,-0.819691 -2.148442,-0.819861 -2.968207,-3.65e-4 -0.819835,0.819708 -0.819839,2.148859 10e-7,2.96857 0.819708,0.819844 2.148856,0.819839 2.968576,1e-6 0.81949,-0.819767 0.81933,-2.148639 -3.7e-4,-2.968206 z M 89.958789,34.605395 c -0.819562,-0.819692 -2.148441,-0.819862 -2.968205,-3.66e-4 -0.819836,0.819708 -0.81984,2.148859 0,2.968571 0.81977,0.819499 2.148638,0.819329 2.968205,-3.65e-4 0.07074,-0.0706 0.136302,-0.146201 0.196223,-0.226189 0.625296,-0.835574 0.541696,-2.003645 -0.196224,-2.741653 z m 1.709377,9.192922 c -0.819563,-0.819691 -2.148442,-0.81986 -2.968205,-3.65e-4 -0.819837,0.819709 -0.819841,2.14886 0,2.968571 0.819707,0.819844 2.148859,0.81984 2.968571,0 0.819498,-0.819766 0.819337,-2.148639 -3.66e-4,-2.968206 z m 1.709377,9.192924 c -0.819563,-0.819692 -2.148442,-0.819862 -2.968206,-3.66e-4 -0.819837,0.81971 -0.81984,2.14886 0,2.968571 0.819708,0.819844 2.148859,0.81984 2.968571,10e-7 0.819499,-0.819768 0.819337,-2.14864 -3.65e-4,-2.968206 z m -10.9023,-10.9023 c -0.819563,-0.819691 -2.148441,-0.819861 -2.968206,-3.65e-4 -0.819836,0.819709 -0.819839,2.148859 10e-7,2.96857 0.819769,0.8195 2.148636,0.819331 2.968205,-3.65e-4 0.07074,-0.0706 0.136302,-0.146201 0.196222,-0.226189 0.625297,-0.835573 0.541696,-2.003645 -0.196223,-2.741652 z M 55.959809,90.408974 c -0.819563,-0.819692 -2.14844,-0.819862 -2.968206,-3.65e-4 -0.819836,0.819709 -0.81984,2.148858 1e-6,2.96857 0.819709,0.819845 2.148859,0.81984 2.968571,10e-7 0.819499,-0.819768 0.819337,-2.148639 -3.66e-4,-2.968206 z M 45.05751,79.506675 c -0.819564,-0.819693 -2.148441,-0.819863 -2.968206,-3.66e-4 -0.819837,0.819709 -0.81984,2.148859 0,2.968571 0.819771,0.8195 2.148637,0.819331 2.968206,-3.65e-4 0.819355,-0.819625 0.819351,-2.148219 0,-2.96784 z m 1.709377,9.192922 c -0.819564,-0.819692 -2.148442,-0.819861 -2.968206,-3.65e-4 -0.819838,0.81971 -0.819839,2.148857 10e-7,2.96857 0.819713,0.81984 2.14886,0.819838 2.96857,1e-6 0.819499,-0.819767 0.819337,-2.148639 -3.65e-4,-2.968206 z m 1.709377,9.192922 c -0.819564,-0.819691 -2.148436,-0.819867 -2.968206,-3.65e-4 -0.819841,0.819713 -0.82021,2.149226 -3.7e-4,2.968936 0.819713,0.81984 2.149228,0.81947 2.968942,-3.7e-4 0.819501,-0.81977 0.81934,-2.148636 -3.66e-4,-2.968201 z M 37.573965,86.99022 c -0.819565,-0.819692 -2.148436,-0.819867 -2.968206,-3.66e-4 -0.819841,0.819714 -0.82021,2.149228 -3.7e-4,2.968941 0.819769,0.819501 2.149003,0.818964 2.968576,-7.35e-4 0.07071,-0.07057 0.136323,-0.146223 0.196222,-0.226189 0.625302,-0.835581 0.541698,-2.003646 -0.196224,-2.741653 z m 1.709006,9.193293 c -0.819564,-0.819692 -2.148436,-0.819867 -2.968206,-3.66e-4 -0.819834,0.819707 -0.819835,2.148854 5e-6,2.968567 0.819713,0.81984 2.14886,0.819838 2.968566,5e-6 0.819502,-0.81977 0.819341,-2.148642 -3.65e-4,-2.968206 z m 1.709381,9.192917 c -0.819564,-0.81969 -2.148436,-0.81987 -2.968206,-3.7e-4 -0.819841,0.81972 -0.819842,2.14886 -2e-6,2.96858 0.819713,0.81984 2.14886,0.81983 2.968574,-1e-5 0.819501,-0.81977 0.81934,-2.14864 -3.66e-4,-2.9682 z m -10.9023,-10.902298 c -0.819564,-0.819692 -2.148435,-0.819867 -2.968205,-3.66e-4 -0.819841,0.819714 -0.819843,2.148861 -3e-6,2.968574 0.81977,0.8195 2.148636,0.819331 2.968208,-3.68e-4 0.07071,-0.07057 0.136324,-0.146223 0.196223,-0.226189 0.625302,-0.835581 0.541698,-2.003646 -0.196224,-2.741653 z" />
+      <rect
+         style="fill:#251a0e;fill-opacity:1;stroke:url(#linearGradient20);stroke-width:0.20988;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect17"
+         width="33.726589"
+         height="35.771069"
+         x="-112.65279"
+         y="-17.885538"
+         rx="4.4256015"
+         ry="4.4256015"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+      <circle
+         style="opacity:0.1;fill:url(#radialGradient24);stroke:none;stroke-width:0.419761;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path22"
+         cx="67.73333"
+         cy="67.73333"
+         r="16.139584" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

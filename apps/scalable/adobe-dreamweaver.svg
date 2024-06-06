@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="application-dreamweaver.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">&gt;
+  <sodipodi:namedview
+   id="namedview7"
+   pagecolor="#292929"
+   bordercolor="#666666"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#1a1a1a"
+   inkscape:document-units="px"
+   showgrid="false"
+   inkscape:zoom="0.92187498"
+   inkscape:cx="408.40679"
+   inkscape:cy="67.254239"
+   inkscape:window-width="3256"
+   inkscape:window-height="1080"
+   inkscape:window-x="1864"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="layer1" />
+<defs
+   id="defs2">
+  <linearGradient
+     id="linearGradient40"
+     inkscape:collect="always">
+    <stop
+       style="stop-color:#333333;stop-opacity:1;"
+       offset="0"
+       id="stop40" />
+    <stop
+       style="stop-color:#808080;stop-opacity:1;"
+       offset="1"
+       id="stop39" />
+  </linearGradient>
+  <linearGradient
+     id="linearGradient37"
+     inkscape:collect="always">
+    <stop
+       style="stop-color:#999999;stop-opacity:1;"
+       offset="0"
+       id="stop38" />
+    <stop
+       style="stop-color:#333333;stop-opacity:1;"
+       offset="1"
+       id="stop37" />
+  </linearGradient>
+  <linearGradient
+     id="linearGradient7"
+     inkscape:collect="always">
+    <stop
+       style="stop-color:#000000;stop-opacity:1;"
+       offset="0"
+       id="stop7" />
+    <stop
+       style="stop-color:#000000;stop-opacity:0;"
+       offset="1"
+       id="stop8" />
+  </linearGradient>
+  <linearGradient
+     id="linearGradient3"
+     inkscape:collect="always">
+    <stop
+       style="stop-color:#0087ff;stop-opacity:1;"
+       offset="0"
+       id="stop4" />
+    <stop
+       style="stop-color:#00ffff;stop-opacity:1;"
+       offset="1"
+       id="stop3" />
+  </linearGradient>
+  <linearGradient
+     id="linearGradient61"
+     inkscape:collect="always">
+    <stop
+       style="stop-color:#894924;stop-opacity:1;"
+       offset="0"
+       id="stop61" />
+    <stop
+       style="stop-color:#502d16;stop-opacity:1;"
+       offset="0.49863869"
+       id="stop60" />
+    <stop
+       style="stop-color:#ce885e;stop-opacity:1;"
+       offset="1"
+       id="stop59" />
+  </linearGradient>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath14">
+    <path
+       id="path14"
+       style="display:inline;opacity:1;fill:#ddbd94;fill-opacity:1;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 209.4966,-31.646129 c -8.50972,0 -16.61663,1.390763 -23.99027,3.905186 -7.37365,2.514424 -14.01387,6.152952 -19.59054,10.648963 -5.57667,4.496011 -10.0897,9.8496204 -13.20849,15.7943845 -1.5594,2.972382 -2.77051,6.0924159 -3.59151,9.3270799 -4.07376,16.0501376 34.96763,12.9876936 35.03352,24.8946036 0.0491,8.874503 -37.27751,4.90147 -18.23352,20.255095 5.57667,4.496019 12.21689,8.134538 19.59054,10.648958 7.37364,2.51443 15.48055,3.905191 23.99027,3.905191 34.03884,0 61.63292,-22.247261 61.63292,-49.689989 0,-27.4427274 -27.59408,-49.689472 -61.63292,-49.689472 z m -28.97343,21.386807 a 11.960308,9.3014079 11.6215 0 1 3.09594,0.3131594 11.960308,9.3014079 11.6215 0 1 9.84126,11.5202271 11.960308,9.3014079 11.6215 0 1 -13.58884,6.7013991 11.960308,9.3014079 11.6215 0 1 -9.84126,-11.520227 11.960308,9.3014079 11.6215 0 1 10.4929,-7.0145586 z" />
+  </clipPath>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath41">
+    <path
+       id="path42"
+       style="opacity:1;fill:#ffdd55;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 23.246203,32.782055 c 0,2.586595 -1.839843,4.683447 -10.473789,4.683447 -8.6339465,0 -15.6331424,-2.096852 -15.6331435,-4.683447 1.1e-6,-2.586596 6.999197,-4.683446 15.6331435,-4.683446 8.633946,0 10.473789,2.09685 10.473789,4.683446 z"
+       sodipodi:nodetypes="sssss" />
+  </clipPath>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath64">
+    <path
+       style="color:#000000;fill:url(#linearGradient65);stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 148.22198,97.588161 c 0,0 1.05833,-13.163825 1.05833,-19.7599 0,-6.596076 -0.97021,-13.167958 -1.05833,-19.759904 -0.0881,-6.591948 0.26461,-13.17268 0.52917,-19.759905 0.26455,-6.587226 0.57081,-14.527147 1.05833,-19.759907 0.48752,-5.23276 -2.36564,-11.6416699 1.54913,-11.6416699 3.91476,0 1.0616,6.4089099 1.54912,11.6416699 0.48753,5.23276 0.79378,13.172681 1.05834,19.759907 0.26456,6.587225 0.61729,13.167957 0.52916,19.759905 -0.0881,6.591946 -1.05833,13.163828 -1.05833,19.759904 0,6.596075 1.05833,19.7599 1.05833,19.7599 v 0 0 0 0 0 0 0 0 c 0,0 -2.03317,1.058339 -3.13662,1.058339 -1.10346,0 -3.13663,-1.058339 -3.13663,-1.058339 z"
+       id="path65" />
+  </clipPath>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient61"
+     id="linearGradient65"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="rotate(-90,133.55514,-0.41099174)"
+     x1="80.367455"
+     y1="20.542898"
+     x2="80.367455"
+     y2="14.242057" />
+  <filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Noise Fill"
+     id="filter51"
+     x="0"
+     y="0"
+     width="1"
+     height="1">
+    <feTurbulence
+       type="fractalNoise"
+       baseFrequency="100 1.48697"
+       numOctaves="4"
+       seed="2"
+       result="turbulence"
+       id="feTurbulence50" />
+    <feComposite
+       in="SourceGraphic"
+       in2="turbulence"
+       operator="in"
+       result="composite1"
+       id="feComposite50" />
+    <feColorMatrix
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4 -1 "
+       result="color"
+       id="feColorMatrix50" />
+    <feFlood
+       flood-opacity="1"
+       flood-color="rgb(134,107,25)"
+       result="flood"
+       id="feFlood50" />
+    <feMerge
+       result="merge"
+       id="feMerge51">
+      <feMergeNode
+         in="flood"
+         id="feMergeNode50" />
+      <feMergeNode
+         in="color"
+         id="feMergeNode51" />
+    </feMerge>
+    <feComposite
+       in2="SourceGraphic"
+       operator="in"
+       result="composite2"
+       id="feComposite51" />
+  </filter>
+  <filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Noise Fill"
+     id="filter60"
+     x="-0.00097656129"
+     y="-0.00097656129"
+     width="1.0019531"
+     height="1.0019531">
+    <feTurbulence
+       type="fractalNoise"
+       baseFrequency="100 0.2"
+       numOctaves="4"
+       seed="2"
+       result="turbulence"
+       id="feTurbulence59" />
+    <feComposite
+       in="SourceGraphic"
+       in2="turbulence"
+       operator="in"
+       result="composite1"
+       id="feComposite59" />
+    <feColorMatrix
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4 -1 "
+       result="color"
+       id="feColorMatrix59" />
+    <feFlood
+       flood-opacity="1"
+       flood-color="rgb(134,79,25)"
+       result="flood"
+       id="feFlood59" />
+    <feMerge
+       result="merge"
+       id="feMerge60">
+      <feMergeNode
+         in="flood"
+         id="feMergeNode59" />
+      <feMergeNode
+         in="color"
+         id="feMergeNode60" />
+    </feMerge>
+    <feComposite
+       in2="SourceGraphic"
+       operator="in"
+       result="composite2"
+       id="feComposite60" />
+  </filter>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath60">
+    <path
+       id="path61"
+       style="display:inline;fill:#ddbd94;fill-opacity:1;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 112.33203,43.92121 C 107.44753,36.952933 101.6554,31.112781 95.36403,26.518042 89.07266,21.923301 82.281783,18.574362 75.399214,16.588506 68.516645,14.602655 61.542339,13.980024 54.884243,14.838407 c -3.329048,0.429192 -6.579093,1.228329 -9.699085,2.412707 -15.481142,5.87679 9.435974,36.088473 -0.276318,42.976883 -7.2388,5.134096 -25.410572,-27.711724 -27.051985,-3.304492 -0.480661,7.147199 0.35132,14.673097 2.524763,22.154347 2.173433,7.481255 5.687884,14.917978 10.57238,21.886258 19.537981,27.8731 53.59416,37.69911 76.065952,21.94724 22.4718,-15.75187 24.85006,-51.117038 5.31208,-78.99014 z M 78.188713,32.471812 a 11.960308,9.3014079 66.59251 0 1 1.520603,2.714894 11.960308,9.3014079 66.59251 0 1 -3.78468,14.671134 11.960308,9.3014079 66.59251 0 1 -13.287386,-7.280832 11.960308,9.3014079 66.59251 0 1 3.784682,-14.671136 11.960308,9.3014079 66.59251 0 1 11.766781,4.56594 z" />
+  </clipPath>
+  <filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Noise Fill"
+     id="filter63"
+     x="0"
+     y="0"
+     width="1"
+     height="1">
+    <feTurbulence
+       type="fractalNoise"
+       baseFrequency="100 0.2"
+       numOctaves="4"
+       seed="2"
+       result="turbulence"
+       id="feTurbulence62" />
+    <feComposite
+       in="SourceGraphic"
+       in2="turbulence"
+       operator="in"
+       result="composite1"
+       id="feComposite62" />
+    <feColorMatrix
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4 -1 "
+       result="color"
+       id="feColorMatrix62" />
+    <feFlood
+       flood-opacity="1"
+       flood-color="rgb(134,79,25)"
+       result="flood"
+       id="feFlood62" />
+    <feMerge
+       result="merge"
+       id="feMerge63">
+      <feMergeNode
+         in="flood"
+         id="feMergeNode62" />
+      <feMergeNode
+         in="color"
+         id="feMergeNode63" />
+    </feMerge>
+    <feComposite
+       in2="SourceGraphic"
+       operator="in"
+       result="composite2"
+       id="feComposite63" />
+  </filter>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath67">
+    <path
+       style="color:#000000;mix-blend-mode:normal;fill:#ffdd55;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 26.47211,105.52142 c 1.942084,0 3.516455,1.83984 3.516455,10.47379 0,8.63395 -1.574371,15.63314 -3.516455,15.63314 -1.942085,0 -3.516455,-6.99919 -3.516455,-15.63314 0,-8.63395 1.57437,-10.47379 3.516455,-10.47379 z"
+       id="path68" />
+  </clipPath>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath11">
+    <path
+       id="path11"
+       style="display:inline;fill:#ddbd94;fill-opacity:1;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 73.83374,17.545226 c -8.509711,0 -16.616621,1.390765 -23.99027,3.905188 -7.373641,2.514423 -14.01386,6.152951 -19.59053,10.648963 -5.57667,4.496011 -10.08971,9.849619 -13.2085,15.794381 -1.55939,2.972382 -2.7705,6.09242 -3.59151,9.327081 -4.0737499,16.050141 34.967629,12.987697 35.033521,24.894606 0.0491,8.8745 -37.277501,4.901467 -18.233511,20.255085 5.57667,4.49602 12.216889,8.13454 19.59053,10.64896 7.373649,2.51443 15.480559,3.90519 23.99027,3.90519 34.03884,0 61.63292,-22.247255 61.63292,-49.689981 0,-27.442729 -27.59408,-49.689473 -61.63292,-49.689473 z M 44.860321,38.932035 a 11.960308,9.3014079 11.6215 0 1 3.095929,0.313158 11.960308,9.3014079 11.6215 0 1 9.841259,11.520228 11.960308,9.3014079 11.6215 0 1 -13.588828,6.701398 11.960308,9.3014079 11.6215 0 1 -9.841262,-11.520225 11.960308,9.3014079 11.6215 0 1 10.492902,-7.014559 z" />
+  </clipPath>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath12">
+    <path
+       id="path13"
+       style="display:inline;fill:#ddbd94;fill-opacity:1;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 73.83374,17.54523 c -8.509711,0 -16.616621,1.39077 -23.99027,3.90519 -7.373641,2.51442 -14.01386,6.15295 -19.59053,10.648959 -5.57667,4.496012 -10.08971,9.84962 -13.2085,15.794382 -1.55939,2.972389 -2.7705,6.09242 -3.59151,9.327078 -4.0737499,16.050141 34.967629,12.987702 35.033521,24.894611 0.0491,8.874501 -37.277501,4.90147 -18.233511,20.25509 5.57667,4.49602 12.216889,8.13454 19.59053,10.64896 7.373649,2.51443 15.480559,3.90518 23.99027,3.90518 34.03884,0 61.63292,-22.24725 61.63292,-49.689981 0,-27.442718 -27.59408,-49.689469 -61.63292,-49.689469 z M 44.860321,38.93204 a 11.960308,9.3014079 11.6215 0 1 3.095929,0.313161 11.960308,9.3014079 11.6215 0 1 9.841259,11.52022 11.960308,9.3014079 11.6215 0 1 -13.588828,6.701398 11.960308,9.3014079 11.6215 0 1 -9.841262,-11.52022 11.960308,9.3014079 11.6215 0 1 10.492902,-7.014559 z" />
+  </clipPath>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath33">
+    <path
+       id="path33"
+       style="display:inline;fill:#ddbd94;fill-opacity:1;stroke-width:0.529169;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 73.83374,17.54523 c -8.509711,0 -16.616621,1.39077 -23.99027,3.90519 -7.373641,2.51442 -14.01386,6.15295 -19.59053,10.648959 -5.57667,4.496012 -10.08971,9.84962 -13.2085,15.794382 -1.55939,2.972389 -2.7705,6.09242 -3.59151,9.327078 -4.0737499,16.050141 34.967629,12.987702 35.033521,24.894611 0.0491,8.874501 -37.277501,4.90147 -18.233511,20.25509 5.57667,4.49602 12.216889,8.13454 19.59053,10.64896 7.373649,2.51443 15.480559,3.90518 23.99027,3.90518 34.03884,0 61.63292,-22.24725 61.63292,-49.689981 0,-27.442718 -27.59408,-49.689469 -61.63292,-49.689469 z M 44.860321,38.93204 a 11.960308,9.3014079 11.6215 0 1 3.095929,0.313161 11.960308,9.3014079 11.6215 0 1 9.841259,11.52022 11.960308,9.3014079 11.6215 0 1 -13.588828,6.701398 11.960308,9.3014079 11.6215 0 1 -9.841262,-11.52022 11.960308,9.3014079 11.6215 0 1 10.492902,-7.014559 z" />
+  </clipPath>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient40"
+     id="linearGradient4"
+     x1="67.73333"
+     y1="135.46666"
+     x2="67.73333"
+     y2="0"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(2.7270507e-6)" />
+  <filter
+     inkscape:collect="always"
+     style="color-interpolation-filters:sRGB"
+     id="filter7"
+     x="-0.25795936"
+     y="-0.2978658"
+     width="1.5159187"
+     height="1.5957316">
+    <feGaussianBlur
+       inkscape:collect="always"
+       stdDeviation="10.259264"
+       id="feGaussianBlur7" />
+  </filter>
+  <radialGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient7"
+     id="radialGradient8"
+     cx="198.15539"
+     cy="64.514706"
+     fx="198.15539"
+     fy="64.514706"
+     r="72.34726"
+     gradientTransform="matrix(1,0,0,0.91162152,0,5.7017116)"
+     gradientUnits="userSpaceOnUse" />
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath35">
+    <path
+       style="color:#000000;fill:url(#linearGradient36);stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 193.21298,-24.159161 h 103.22475 c 8.93101,0 16.12096,7.189946 16.12096,16.1209549 V 95.186544 c 0,8.931006 -7.18995,16.120956 -16.12096,16.120956 H 193.21298 c -8.93101,0 -16.12095,-7.18995 -16.12095,-16.120956 V -8.0382061 c 0,-8.9310089 7.18994,-16.1209549 16.12095,-16.1209549 z"
+       id="path36" />
+  </clipPath>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient3"
+     id="linearGradient36"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(177.09202,-24.159161)"
+     x1="67.73333"
+     y1="135.46666"
+     x2="67.73333"
+     y2="0" />
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient37"
+     id="linearGradient38"
+     x1="244.82535"
+     y1="111.3075"
+     x2="244.82617"
+     y2="-24.159113"
+     gradientUnits="userSpaceOnUse" />
+  <filter
+     inkscape:label="Duotone Turbulent"
+     inkscape:menu="Overlays"
+     inkscape:menu-tooltip="Basic noise fill texture; adjust color in Flood"
+     style="color-interpolation-filters:sRGB;"
+     id="filter48"
+     x="0"
+     y="0"
+     width="1"
+     height="1">
+    <feFlood
+       flood-color="rgb(255,0,0)"
+       result="fbSourceGraphic"
+       flood-opacity="1"
+       id="feFlood46" />
+    <feFlood
+       result="result4"
+       flood-color="rgb(158,236,254)"
+       flood-opacity="1"
+       id="feFlood47" />
+    <feTurbulence
+       type="fractalNoise"
+       numOctaves="5"
+       baseFrequency="0.02"
+       result="result1"
+       id="feTurbulence47" />
+    <feComposite
+       in2="result1"
+       operator="in"
+       result="result2"
+       in="fbSourceGraphic"
+       id="feComposite47" />
+    <feColorMatrix
+       result="result3"
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 -1 "
+       in="result2"
+       id="feColorMatrix47" />
+    <feMerge
+       result="result5"
+       id="feMerge48">
+      <feMergeNode
+         in="result4"
+         id="feMergeNode47" />
+      <feMergeNode
+         in="result3"
+         id="feMergeNode48" />
+    </feMerge>
+    <feComposite
+       in2="SourceGraphic"
+       operator="in"
+       result="fbSourceGraphic"
+       id="feComposite48" />
+    <feColorMatrix
+       result="fbSourceGraphicAlpha"
+       in="fbSourceGraphic"
+       values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+       id="feColorMatrix48" />
+    <feColorMatrix
+       id="feColorMatrix49"
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 "
+       in="fbSourceGraphic" />
+    <feColorMatrix
+       id="feColorMatrix51"
+       type="saturate"
+       values="0"
+       result="result1" />
+    <feFlood
+       id="feFlood51"
+       flood-color="rgb(9,111,151)"
+       result="result2" />
+    <feColorMatrix
+       id="feColorMatrix52"
+       type="hueRotate"
+       values="0"
+       result="result3" />
+    <feBlend
+       id="feBlend52"
+       in2="result1"
+       mode="screen"
+       result="result2" />
+    <feBlend
+       id="feBlend53"
+       in2="result2"
+       result="result4"
+       mode="multiply" />
+    <feTurbulence
+       id="feTurbulence53"
+       numOctaves="5"
+       baseFrequency="0.035"
+       type="fractalNoise"
+       result="result7" />
+    <feColorMatrix
+       id="feColorMatrix53"
+       result="result0"
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 -1 " />
+    <feFlood
+       id="feFlood53"
+       flood-opacity="1"
+       flood-color="rgb(200,57,93)"
+       result="result1" />
+    <feBlend
+       id="feBlend54"
+       in2="result4"
+       mode="lighten"
+       in="result1"
+       result="result5" />
+    <feComposite
+       id="feComposite54"
+       in2="result0"
+       operator="out"
+       result="result6" />
+    <feComposite
+       id="feComposite55"
+       in2="result4"
+       operator="atop"
+       result="result8" />
+    <feComposite
+       id="feComposite56"
+       in2="fbSourceGraphic"
+       operator="in" />
+  </filter>
+  <clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath57">
+    <rect
+       style="display:inline;fill:url(#linearGradient60);stroke:none;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect58"
+       width="135.46666"
+       height="135.46666"
+       x="177.09285"
+       y="-24.159111"
+       ry="16.120955" />
+  </clipPath>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient40"
+     id="linearGradient60"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(177.09283,-24.159114)"
+     x1="67.73333"
+     y1="135.46666"
+     x2="67.73333"
+     y2="0" />
+  <filter
+     inkscape:collect="always"
+     style="color-interpolation-filters:sRGB"
+     id="filter61"
+     x="-0.192"
+     y="-0.192"
+     width="1.384"
+     height="1.384">
+    <feGaussianBlur
+       inkscape:collect="always"
+       stdDeviation="11.345312"
+       id="feGaussianBlur61" />
+  </filter>
+</defs>
+<g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   style="display:inline">
+  <rect
+     style="display:inline;fill:url(#linearGradient4);stroke:none;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="rect3"
+     width="135.46666"
+     height="135.46666"
+     x="2.7270507e-06"
+     y="0"
+     ry="16.120955"
+     sodipodi:insensitive="true" />
+  <path
+     sodipodi:type="star"
+     style="display:inline;opacity:0.6;mix-blend-mode:overlay;fill:url(#radialGradient8);stroke:none;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter7)"
+     id="path7"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="198.1554"
+     sodipodi:cy="50.737679"
+     sodipodi:r1="55.108112"
+     sodipodi:r2="27.554056"
+     sodipodi:arg1="1.5707963"
+     sodipodi:arg2="2.6179939"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 198.1554,105.84579 -47.72503,-82.662166 95.45005,-3e-6 z"
+     inkscape:transform-center-y="-13.777029"
+     transform="matrix(1,0,0,-1,-130.42206,158.65029)"
+     inkscape:label="center-dark"
+     sodipodi:insensitive="true" />
+  <path
+     style="color:#000000;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill;filter:url(#filter61)"
+     d="m 193.21289,-27.333984 c -10.63503,0 -19.29492,8.659892 -19.29492,19.2949215 V 95.1875 c 0,10.63503 8.65989,19.29492 19.29492,19.29492 H 296.4375 c 10.63503,0 19.29687,-8.65989 19.29687,-19.29492 V -8.0390625 c 0,-10.6350295 -8.66184,-19.2949215 -19.29687,-19.2949215 z m 0,6.349609 H 296.4375 c 7.22697,0 12.94531,5.718342 12.94531,12.9453125 V 95.1875 c 0,7.22697 -5.71834,12.94531 -12.94531,12.94531 H 193.21289 c -7.22697,0 -12.94531,-5.71834 -12.94531,-12.94531 V -8.0390625 c 0,-7.2269705 5.71834,-12.9453125 12.94531,-12.9453125 z"
+     id="path57"
+     clip-path="url(#clipPath57)"
+     transform="translate(-177.09284,24.159114)"
+     inkscape:label="edge-undder-shadow"
+     sodipodi:insensitive="true" />
+  <path
+     style="color:#000000;display:inline;mix-blend-mode:normal;fill:url(#linearGradient38);stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+     d="m 193.21289,-27.333984 c -10.63503,0 -19.29492,8.659892 -19.29492,19.2949215 V 95.1875 c 0,10.63503 8.65989,19.29492 19.29492,19.29492 H 296.4375 c 10.63503,0 19.29687,-8.65989 19.29687,-19.29492 V -8.0390625 c 0,-10.6350295 -8.66184,-19.2949215 -19.29687,-19.2949215 z m 0,6.349609 H 296.4375 c 7.22697,0 12.94531,5.718342 12.94531,12.9453125 V 95.1875 c 0,7.22697 -5.71834,12.94531 -12.94531,12.94531 H 193.21289 c -7.22697,0 -12.94531,-5.71834 -12.94531,-12.94531 V -8.0390625 c 0,-7.2269705 5.71834,-12.9453125 12.94531,-12.9453125 z"
+     id="path34"
+     clip-path="url(#clipPath35)"
+     transform="translate(-177.09284,24.159114)"
+     inkscape:label="edge"
+     sodipodi:insensitive="true" />
+  <rect
+     style="display:inline;mix-blend-mode:color;fill:#80d675;fill-opacity:1;stroke:none;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="rect56"
+     width="135.46666"
+     height="135.46666"
+     x="2.7270507e-06"
+     y="2.7270507e-06"
+     ry="16.120955"
+     inkscape:label="dw-green" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+     x="5.1077518"
+     y="63.354851"
+     id="text8"><tspan
+       sodipodi:role="line"
+       id="tspan8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264582"
+       x="5.1077518"
+       y="63.354851">Dw</tspan></text>
+  <path
+     id="text4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+     d="m 23.930358,10.583604 c -4.92805,0 -9.58251,0.479017 -13.34699,1.095023 V 63.2176 c 0.1648,0.02299 0.35921,0.03875 0.52917,0.06046 V 12.207793 c 3.76448,-0.616006 8.41894,-1.095024 13.34699,-1.095024 9.67893,0 16.03152,2.59074 20.12641,6.471957 -4.06904,-4.17186 -10.54527,-7.001123 -20.65558,-7.001123 z m 14.04617,11.323856 c 2.96906,3.232593 4.57078,8.002166 4.57078,14.274581 0,14.441922 -7.11827,21.355001 -18.89084,21.286556 -1.6297,0 -3.29067,-0.05951 -4.60437,-0.212907 v 0.468188 c 1.36891,0.205336 3.28552,0.273885 5.13354,0.273885 11.77256,0.06845 18.89084,-6.844633 18.89084,-21.286555 0,-6.630212 -1.79659,-11.573181 -5.09995,-14.803748 z m 16.75402,3.734139 10.81432,37.712943 h 0.37724 l -10.6624,-37.183776 h 7.80676 l -0.12247,-0.529167 z m 23.20271,0 -5.20175,18.137911 c -1.02659,3.657253 -2.10085,7.547095 -2.85305,11.234456 0.07724,0.423925 0.16074,0.849817 0.23358,1.272274 h 0.13694 c 0.75289,-3.901372 1.91658,-8.076191 3.0117,-11.977563 l 5.20175,-18.137911 h 6.12056 l -0.14728,-0.529167 z m 21.49171,0 -4.38009,17.795296 c -0.97716,4.169233 -1.82283,8.023943 -2.43396,11.750187 0.0736,0.365695 0.15621,0.734828 0.22531,1.099158 h 0.20515 c 0.61601,-3.901372 1.50599,-7.93969 2.53267,-12.320178 l 4.38009,-17.795296 h 7.181992 l 0.1602,-0.529167 z m -18.08778,9.495028 c -0.03329,0.199733 -0.07417,0.381148 -0.10852,0.578259 0.75265,3.942351 1.52812,7.312886 2.59106,10.939384 l 4.85965,16.700272 h 0.37517 l -4.70566,-16.171105 c -1.16357,-3.969818 -1.98469,-7.597877 -2.80603,-12.04681 z" />
+  <path
+     id="text7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+     d="m 24.153716,16.35108 c -2.73781,0 -4.79093,0.27399 -6.15983,0.54777 v 39.766565 c 0.16163,0.02424 0.35276,0.04044 0.52865,0.06098 V 17.428017 c 1.3689,-0.273781 3.42254,-0.54777 6.16035,-0.54777 5.4118,0 9.72459,1.525411 12.76407,4.497916 -3.05708,-3.328432 -7.56403,-5.027083 -13.29324,-5.027083 z m 19.90266,0.70435 c 4.9112,5.035293 6.31176,12.028735 6.31176,18.392159 v 0.06821 c 0,9.513873 -2.94292,16.426794 -7.52874,20.875728 -4.72271,4.585823 -12.18341,6.913277 -21.4235,6.913277 -4.39365,0 -7.96756,-0.18956 -10.83293,-0.55553 v 0.46871 c 2.94314,0.41067 6.70783,0.61598 11.3621,0.61598 9.24009,0 16.70078,-2.327447 21.4235,-6.913271 4.58582,-4.448933 7.52874,-11.361855 7.52874,-20.875728 v -0.06821 c 0,-6.588376 -1.49576,-13.855065 -6.84093,-18.921325 z m 18.48052,8.586039 4.05299,17.540014 c 0.88978,4.038263 1.77948,8.076993 2.46393,12.04681 h 0.13694 c 0.0471,-0.244128 0.10844,-0.496968 0.15865,-0.743107 -0.6486,-3.559767 -1.43524,-7.165929 -2.23036,-10.774536 l -4.17545,-18.069181 z m 21.51652,0 4.7811,17.197916 c 1.16357,4.380489 2.19008,8.419091 2.94298,12.388908 h 0.20515 c 0.0297,-0.188112 0.0677,-0.381219 0.0987,-0.569991 -0.72839,-3.61905 -1.66086,-7.311214 -2.71766,-11.28975 l -4.92838,-17.727083 z m 22.553664,0 -11.270114,37.183778 h -6.81199 l 0.154,0.52917 h 7.18664 L 107.29645,25.641469 Z M 80.278966,34.07868 c -0.75289,4.517379 -1.77992,8.350024 -2.94349,12.114506 l -5.13302,16.632061 h -6.80992 l 0.15193,0.52917 h 7.18716 l 5.13302,-16.632064 c 1.11197,-3.597555 2.092,-7.274484 2.83445,-11.534697 -0.0714,-0.373767 -0.14383,-0.723642 -0.21497,-1.108976 z" />
+</g>
+<metadata
+   id="metadata1">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata6">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata2">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata3">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata4">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata5">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata7">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata8">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata9">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata10">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata11">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata12">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata13">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata14">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata15">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata16">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata17">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<metadata
+   id="metadata18">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Jess Tipton</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <cc:license
+         rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>m0dw3rks.com</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+</svg>

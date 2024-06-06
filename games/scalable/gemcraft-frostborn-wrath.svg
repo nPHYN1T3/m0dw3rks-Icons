@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="gemcraft-frostborn-wrath.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient59"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop59" />
+      <stop
+         style="stop-color:#001bff;stop-opacity:0;"
+         offset="1"
+         id="stop60" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient57"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="0"
+         id="stop58" />
+      <stop
+         style="stop-color:#0000d4;stop-opacity:1;"
+         offset="1"
+         id="stop57" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient55"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="0"
+         id="stop56" />
+      <stop
+         style="stop-color:#d5d5ff;stop-opacity:1;"
+         offset="1"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient53"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#aaaaff;stop-opacity:1;"
+         offset="0"
+         id="stop53" />
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="1"
+         id="stop54" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient51"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="0"
+         id="stop52" />
+      <stop
+         style="stop-color:#8080ff;stop-opacity:1;"
+         offset="1"
+         id="stop51" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient49"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5555ff;stop-opacity:1;"
+         offset="0"
+         id="stop49" />
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="1"
+         id="stop50" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient47"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="0"
+         id="stop48" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:1;"
+         offset="1"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient45"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop45" />
+      <stop
+         style="stop-color:#000066;stop-opacity:1;"
+         offset="1"
+         id="stop46" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient43"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop43" />
+      <stop
+         style="stop-color:#80b3ff;stop-opacity:1;"
+         offset="1"
+         id="stop44" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient23"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0000ba;stop-opacity:1;"
+         offset="0"
+         id="stop24" />
+      <stop
+         style="stop-color:#00002b;stop-opacity:1;"
+         offset="1"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#660080;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0300ff;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#440055;stop-opacity:0;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="-62.252209"
+       y1="-71.88266"
+       x2="62.252209"
+       y2="42.41077"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="95.882584"
+       y1="115.76342"
+       x2="39.584335"
+       y2="28.16913"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23"
+       id="linearGradient24"
+       x1="130.99948"
+       y1="129.01889"
+       x2="-1.6333035"
+       y2="-0.28851318"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43"
+       id="linearGradient44"
+       x1="277.25693"
+       y1="112.26099"
+       x2="195.78276"
+       y2="-17.046879"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-162.14656,20.126144)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient45"
+       id="linearGradient46"
+       x1="67.733101"
+       y1="3.0792661"
+       x2="67.733337"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient47"
+       id="linearGradient48"
+       x1="120.91495"
+       y1="23.911589"
+       x2="67.733337"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient49"
+       id="linearGradient50"
+       x1="134.04973"
+       y1="86.237755"
+       x2="69.024879"
+       y2="68.354858"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient51"
+       id="linearGradient52"
+       x1="97.246902"
+       y1="132.38704"
+       x2="67.73333"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient53"
+       id="linearGradient54"
+       x1="38.219761"
+       y1="132.38704"
+       x2="67.733337"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient55"
+       id="linearGradient56"
+       x1="1.41694"
+       y1="86.237755"
+       x2="67.73333"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient57"
+       id="linearGradient58"
+       x1="14.551717"
+       y1="28.690546"
+       x2="67.73333"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient59"
+       id="radialGradient60"
+       cx="-137.93289"
+       cy="67.73333"
+       fx="-137.93289"
+       fy="67.73333"
+       r="67.189064"
+       gradientTransform="matrix(0.78757854,0,0,0.78757852,176.36632,14.388018)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60"
+       x="-0.058080001"
+       y="-0.058080001"
+       width="1.11616"
+       height="1.11616">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5611667"
+         id="feGaussianBlur60" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0042056"
+     inkscape:cx="145.88646"
+     inkscape:cy="145.38855"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#000000"
+     inkscape:window-width="3256"
+     inkscape:window-height="1080"
+     inkscape:window-x="1864"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showborder="true"
+     borderlayer="false"
+     shape-rendering="crispEdges" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:0.4;fill:#440055;stroke-width:0.243172;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:r1="71.88266"
+       sodipodi:r2="42.41077"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:rounded="1.9081958e-17"
+       inkscape:randomized="0"
+       d="M 1.9260884e-6,-71.88266 36.728804,-21.205385 62.252209,35.941332 1.8667954e-7,42.41077 -62.252211,35.941328 -36.728805,-21.205385 Z"
+       inkscape:transform-center-y="-19.552928"
+       transform="matrix(1.0880471,0,0,1.0880471,67.733527,83.57067)" />
+    <path
+       sodipodi:type="star"
+       style="display:none;opacity:0.2;fill:#ff0000;stroke-width:0.345226;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path1-3"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:r1="71.88266"
+       sodipodi:r2="42.41077"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:rounded="1.9081958e-17"
+       inkscape:randomized="0"
+       d="M 1.9260884e-6,-71.88266 36.728804,-21.205385 62.252209,35.941332 1.8667954e-7,42.41077 -62.252211,35.941328 -36.728805,-21.205385 Z"
+       inkscape:transform-center-y="-13.772798"
+       transform="matrix(0.76640459,0,0,0.76640459,257.30264,64.879572)"
+       inkscape:transform-center-x="2.9213578e-06"
+       sodipodi:insensitive="true" />
+    <path
+       id="path2"
+       style="display:none;opacity:0.8;fill:#d40000;stroke-width:0.243172;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="M 1.2939491e-4,-71.882454 -36.72892,-21.205172 -62.252078,35.941359 1.2939491e-4,42.410607 62.252336,35.941359 36.728704,-21.205172 Z m 0,20.78414 L 25.871423,-15.402273 43.849579,24.851355 1.2939491e-4,29.407993 -43.84932,24.851355 -25.871164,-15.402273 Z"
+       transform="matrix(1.0880471,0,0,1.0880471,257.3025,69.619255)"
+       sodipodi:insensitive="true" />
+    <path
+       id="path4"
+       style="opacity:0.2;fill:#e680ff;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="M 67.73346,5.5550111 V 28.169131 l 28.14919,38.83897 11.81323,-6.31382 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path7"
+       style="opacity:0.2;fill:#dd55ff;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="m 95.882545,67.008283 19.561085,43.797857 6.24057,13.49891 13.78249,-1.43247 -27.77091,-62.178117 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path7-6"
+       style="opacity:0.2;fill:#d42aff;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="M 39.584124,67.008278 20.023039,110.80614 13.782469,124.30504 -2.0963729e-5,122.87257 27.770889,60.694458 Z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path10"
+       style="display:inline;opacity:0.2;fill:#22002b;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="m 67.733335,5.5550371 -39.96294,55.1392709 11.81375,6.313827 28.14919,-38.838973 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path17"
+       style="display:inline;opacity:0.2;fill:#8800aa;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="m 20.023011,110.80615 v 5.2e-4 l -6.240446,13.49892 53.950712,5.60637 v -14.14797 z" />
+    <path
+       id="path18"
+       style="display:inline;opacity:0.2;fill:#22002b;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:transform-center-y="-19.552928"
+       d="m 115.44369,110.80562 v 5.2e-4 l 6.24044,13.49892 -53.950705,5.60636 v -14.14796 z" />
+    <path
+       id="rect19"
+       style="display:inline;opacity:0.2;fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 67.73346,28.169131 95.882584,67.008421 67.73355,115.76342 39.584335,67.008421 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path19"
+       style="display:inline;opacity:0.2;fill:#22002b;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 39.58421,67.008458 28.149124,48.755712 -47.71038,-4.95821 z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path20"
+       style="display:inline;opacity:0.2;fill:#440055;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 95.88265,67.008101 67.733526,115.76381 115.44391,110.8056 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:0.4;fill:url(#linearGradient6);stroke-width:0.243172;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path5"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:r1="71.88266"
+       sodipodi:r2="42.41077"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:rounded="1.9081958e-17"
+       inkscape:randomized="0"
+       d="M 1.9260884e-6,-71.88266 36.728804,-21.205385 62.252209,35.941332 1.8667954e-7,42.41077 -62.252211,35.941328 -36.728805,-21.205385 Z"
+       inkscape:transform-center-y="-19.552928"
+       transform="matrix(1.0880471,0,0,1.0880471,67.733527,83.57067)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:url(#linearGradient24);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path3"
+       inkscape:flatsided="false"
+       sodipodi:sides="7"
+       sodipodi:cx="64.68309"
+       sodipodi:cy="67.73333"
+       sodipodi:r1="68.021843"
+       sodipodi:r2="52.37682"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-1.1219974"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 64.683092,-0.28851318 22.725447,20.83195818 30.456171,4.778961 -2.118,30.755984 15.25277,26.791226 -25.36654,17.520124 -11.43628,28.62915 -29.513569,-8.90874 -29.513574,8.90874 L 23.733244,100.38974 -1.6333035,82.869612 13.619467,56.078392 11.501473,25.322403 41.957639,20.543446 Z"
+       inkscape:transform-center-y="-3.3681407"
+       transform="translate(3.0502434,3.3681432)"
+       sodipodi:insensitive="true" />
+    <path
+       id="rect3"
+       style="display:inline;opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient46);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 45.007882,23.91159 67.733336,3.07963 90.458783,23.911589 67.733333,67.733333 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="-32.326852" />
+    <path
+       id="path14"
+       style="opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient48);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 90.458783,23.911589 30.456167,4.77896 -2.11799,30.755984 -51.063627,8.2868 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="-22.5324"
+       inkscape:transform-center-x="-25.29926" />
+    <path
+       id="path15"
+       style="opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient58);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 45.007884,23.911586 -30.456167,4.77896 2.11799,30.755984 51.063627,8.2868 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="-22.5324"
+       inkscape:transform-center-x="25.29926" />
+    <path
+       id="path16"
+       style="opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient56);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 26.783488,103.75789 1.41694,86.237755 16.669707,59.44653 l 51.063627,8.2868 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="22.532401"
+       inkscape:transform-center-x="25.29926" />
+    <path
+       id="path21"
+       style="opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient50);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 108.68318,103.75789 25.36655,-17.520136 -15.25276,-26.791225 -51.063635,8.2868 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="22.532401"
+       inkscape:transform-center-x="-25.299259" />
+    <path
+       id="path22"
+       style="opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient52);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 67.733335,123.47829 97.246904,132.38704 108.68318,103.75788 67.733333,67.733332 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="27.995874"
+       inkscape:transform-center-x="-20.795845" />
+    <path
+       id="path23"
+       style="opacity:0.226001;mix-blend-mode:normal;fill:url(#linearGradient54);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 67.73333,123.47829 38.219761,132.38704 26.783485,103.75788 67.733332,67.733327 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-y="27.995874"
+       inkscape:transform-center-x="20.795845" />
+    <g
+       id="g30"
+       transform="translate(198.81601,10.224485)"
+       style="display:inline;opacity:0.4;mix-blend-mode:overlay"
+       sodipodi:insensitive="true">
+      <path
+         id="path24"
+         style="opacity:1;mix-blend-mode:normal;fill:#d5d5ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m -153.80813,13.687105 22.72546,-20.83196 22.72544,20.831959 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="-32.326852" />
+      <path
+         id="path25"
+         style="opacity:1;mix-blend-mode:normal;fill:#aaaaff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m -108.35723,13.687104 30.45617,4.77896 -2.11799,30.755984 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="-22.5324"
+         inkscape:transform-center-x="-25.29926" />
+      <path
+         id="path26"
+         style="opacity:1;mix-blend-mode:normal;fill:#0000d4;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m -153.80813,13.687101 -30.45616,4.77896 2.11799,30.755984 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="-22.5324"
+         inkscape:transform-center-x="25.29926" />
+      <path
+         id="path27"
+         style="opacity:1;mix-blend-mode:normal;fill:#0000ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M -172.03252,93.533405 -197.39907,76.01327 -182.1463,49.222045 Z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="22.532401"
+         inkscape:transform-center-x="25.29926" />
+      <path
+         id="path28"
+         style="opacity:1;mix-blend-mode:normal;fill:#8080ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M -90.13283,93.533405 -64.76628,76.013269 -80.01904,49.222044 Z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="22.532401"
+         inkscape:transform-center-x="-25.299259" />
+      <path
+         id="path29"
+         style="opacity:1;mix-blend-mode:normal;fill:#5555ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m -131.08267,113.25381 29.51356,8.90875 11.43628,-28.629165 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="27.995874"
+         inkscape:transform-center-x="-20.795845" />
+      <path
+         id="path30"
+         style="opacity:1;mix-blend-mode:normal;fill:#2a2aff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m -131.08268,113.25381 -29.51357,8.90875 -11.43628,-28.629165 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-y="27.995874"
+         inkscape:transform-center-x="20.795845" />
+    </g>
+    <path
+       id="path37"
+       style="display:inline;opacity:0.4;fill:url(#linearGradient44);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 67.733104,3.079266 22.72523,20.83232 30.456536,4.779036 z m 0,0 -53.18176,25.611356 30.45654,-4.779036 z m -53.18176,25.611356 -13.1346,57.546875 15.25281,-26.791129 z m -13.1346,57.546875 36.80292,46.149633 -11.43651,-28.62925 z m 36.80292,46.149633 h 59.02689 l -29.51345,-8.90902 z m 59.02689,0 36.802916,-46.149633 -25.36641,17.520383 z m 36.802916,-46.149633 -13.1346,-57.546875 -2.11822,30.755746 z"
+       sodipodi:insensitive="true" />
+    <g
+       id="g44"
+       style="display:inline;opacity:0.4;mix-blend-mode:overlay"
+       sodipodi:insensitive="true">
+      <path
+         id="rect30"
+         style="display:inline;opacity:1;fill:#004455;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 14.55172,28.690546 67.733336,3.07963 45.007884,23.911586 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path31"
+         style="display:inline;opacity:1;fill:#006680;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 120.91495,28.690549 67.733331,3.079633 90.458783,23.911589 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path32"
+         style="display:inline;opacity:1;fill:#0088aa;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 134.04973,86.237754 -13.13478,-57.547205 -2.11798,30.75598 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path33"
+         style="display:inline;opacity:1;fill:#00aad4;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 97.246904,132.38704 134.04973,86.237759 108.68318,103.75789 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path34"
+         style="display:inline;opacity:1;fill:#00ccff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 38.21976,132.38704 H 97.2469 L 67.73333,123.4783 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path35"
+         style="display:inline;opacity:1;fill:#2ad4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 1.41694,86.237755 38.219761,132.38704 26.78348,103.75788 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path36"
+         style="display:inline;opacity:1;fill:#00222b;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 14.55172,28.690546 1.41694,86.237755 16.669707,59.44653 Z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <circle
+       style="display:inline;opacity:1;mix-blend-mode:soft-light;fill:url(#radialGradient60);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter60)"
+       id="path58"
+       cx="67.73333"
+       cy="67.73333"
+       r="52.916668" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jess Tipton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>m0dw3rks.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
