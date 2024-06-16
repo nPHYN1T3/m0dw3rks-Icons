@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+<!-- application/x-col-rom -->
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-col-rom">
+  <comment>Colecovision ROM</comment>
+  <acronym>COL</acronym>
+  <expanded-acronym>COLeco</expanded-acronym>
+  <glob pattern="*.col"/>
+  <icon name="application-x-col-rom"/>
+</mime-type>
+</mime-info>
