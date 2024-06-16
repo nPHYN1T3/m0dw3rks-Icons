@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="172.19848"
-     inkscape:cy="272.29604"
+     inkscape:zoom="5.2149124"
+     inkscape:cx="234.8074"
+     inkscape:cy="340.17829"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -36,6 +36,30 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient10"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#cc0000;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+      <stop
+         style="stop-color:#800000;stop-opacity:1;"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#000030;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
     <linearGradient
        id="linearGradient31"
        inkscape:collect="always">
@@ -320,6 +344,24 @@
          stdDeviation="0.47436862"
          id="feGaussianBlur39" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient8"
+       x1="14.539683"
+       y1="20.95912"
+       x2="120.92698"
+       y2="79.027412"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10"
+       id="linearGradient16"
+       x1="68.328117"
+       y1="50.229862"
+       x2="120.74664"
+       y2="78.991753"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -365,11 +407,11 @@
        transform="scale(-1,1)" />
     <path
        id="rect12"
-       style="fill:#000080;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill"
+       style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill"
        d="m 14.539683,20.384995 v 77.939426 c 0,1.59512 1.284289,2.879409 2.879411,2.879409 H 118.04757 c 1.59512,0 2.87941,-1.284289 2.87941,-2.879409 V 20.384995 Z" />
     <path
        id="path14"
-       style="fill:#800000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill"
+       style="display:inline;fill:url(#linearGradient16);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill"
        d="M 17.419092,101.20383 H 118.04757 c 1.59512,0 2.87941,-1.284289 2.87941,-2.879409 V 20.384995 c 0,0 -40.312837,19.641571 -57.614926,33.618601 C 46.009965,67.980625 17.419092,101.20383 17.419092,101.20383 Z"
        sodipodi:nodetypes="cssczc" />
     <path
@@ -404,15 +446,15 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53999px;line-height:1.25;font-family:FederationWide;-inkscape-font-specification:'FederationWide, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="45.131237"
-       y="97.144623"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27959px;line-height:1.25;font-family:FederationWide;-inkscape-font-specification:'FederationWide, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.176788"
+       y="97.05439"
        id="text26"><tspan
          sodipodi:role="line"
          id="tspan26"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53999px;font-family:FederationWide;-inkscape-font-specification:'FederationWide, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="45.131237"
-         y="97.144623">16-BIT FARTRIDGE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27959px;font-family:FederationWide;-inkscape-font-specification:'FederationWide, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="45.176788"
+         y="97.05439">16-BUTT FARTRIDGE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -498,5 +540,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.95099px;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4e2356;fill-opacity:1;stroke-width:0.264583"
          x="64.698563"
          y="84.076088">BEGA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.17179px;line-height:1.25;font-family:sans-serif;mix-blend-mode:overlay;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;opacity:0.2"
+       x="69.411674"
+       y="68.730377"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.17179px;font-family:'1952 RHEINMETALL';-inkscape-font-specification:'1952 RHEINMETALL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="69.411674"
+         y="68.730377">Sonic is the shittiest</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.17179px;font-family:'1952 RHEINMETALL';-inkscape-font-specification:'1952 RHEINMETALL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="69.411674"
+         y="75.242287"
+         id="tspan2">franchise</tspan></text>
   </g>
 </svg>
