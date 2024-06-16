@@ -26,8 +26,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.3037281"
-     inkscape:cx="323.3036"
-     inkscape:cy="263.09166"
+     inkscape:cx="172.19848"
+     inkscape:cy="272.29604"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -129,7 +129,7 @@
          id="stop8" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
+         offset="0.49620762"
          id="stop9" />
     </linearGradient>
     <linearGradient
@@ -152,8 +152,8 @@
          offset="0"
          id="stop3" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.5;"
-         offset="0.5"
+         style="stop-color:#999999;stop-opacity:0.1;"
+         offset="0.49968255"
          id="stop4" />
       <stop
          style="stop-color:#000000;stop-opacity:0;"
@@ -339,7 +339,7 @@
        x="2.6824464e-06"
        y="20.385099" />
     <rect
-       style="display:inline;opacity:0.6;mix-blend-mode:normal;fill:url(#linearGradient7);stroke-width:0.371149;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill;filter:url(#filter8)"
+       style="display:inline;opacity:0.28;mix-blend-mode:normal;fill:url(#linearGradient7);stroke-width:0.371149;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill;filter:url(#filter8)"
        id="rect2"
        width="5.4512157"
        height="94.696571"
@@ -356,7 +356,7 @@
        x="2.6824464e-06"
        y="20.385099" />
     <rect
-       style="display:inline;opacity:0.28;fill:url(#linearGradient5);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.68;fill:url(#linearGradient5);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:149.514;paint-order:markers stroke fill"
        id="rect4"
        width="12.7"
        height="94.696571"
