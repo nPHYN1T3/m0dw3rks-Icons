@@ -31,9 +31,9 @@
    inkscape:deskcolor="#505050"
    inkscape:document-units="mm"
    showgrid="false"
-   inkscape:zoom="1.4142136"
-   inkscape:cx="370.87751"
-   inkscape:cy="290.62089"
+   inkscape:zoom="0.7071068"
+   inkscape:cx="516.89504"
+   inkscape:cy="373.35237"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
@@ -891,7 +891,7 @@
    inkscape:label="Layer 1"
    inkscape:groupmode="layer"
    id="g37935"
-   style="display:inline">
+   style="display:none">
   <g
      aria-label="K"
      id="text26112"
@@ -1126,7 +1126,7 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="simple"
-   style="display:none">
+   style="display:inline">
   <path
      id="path33"
      style="display:inline;fill:#008000;stroke:#ffffff;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:149.514;stroke-opacity:1;paint-order:markers stroke fill"
