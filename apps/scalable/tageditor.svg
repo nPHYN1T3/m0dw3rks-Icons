@@ -29,9 +29,9 @@
    inkscape:document-units="mm"
    showgrid="false"
    inkscape:zoom="1.4467453"
-   inkscape:cx="359.77308"
-   inkscape:cy="213.58286"
-   inkscape:window-width="3256"
+   inkscape:cx="359.77307"
+   inkscape:cy="212.89165"
+   inkscape:window-width="1920"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
    inkscape:window-y="0"
@@ -407,7 +407,8 @@
      clip-path="url(#clipPath41)" />
 </g>
 <g
-   id="g60">
+   id="g60"
+   style="display:inline">
   <path
      id="path45"
      style="display:inline;fill:url(#linearGradient60);stroke:#ab9349;stroke-width:0.105833;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
