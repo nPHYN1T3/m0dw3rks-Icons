@@ -7,10 +7,11 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="application-gguf.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.3037281"
-     inkscape:cx="242.76534"
-     inkscape:cy="294.53994"
-     inkscape:window-width="3252"
-     inkscape:window-height="1076"
+     inkscape:cx="329.82337"
+     inkscape:cy="273.06307"
+     inkscape:window-width="3256"
+     inkscape:window-height="1080"
      inkscape:window-x="1864"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -114,5 +115,13 @@
          style="fill:#0000ff;stroke-width:0.264583"
          x="-1.9667298"
          y="79.180527">useless pop-culture B.S.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:'BitDust Two';-inkscape-font-specification:'BitDust Two, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.264583"
+       id="text1"><textPath
+         xlink:href="#path4"
+         startOffset="50%"
+         id="textPath4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00ff;stroke-width:0.264583">Vague  useless  answers  that  dodge  the  question,  worded  as  if  read  by  a  politician.</textPath></text>
   </g>
 </svg>
