@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.46093751"
-     inkscape:cx="676.88134"
-     inkscape:cy="267.9322"
+     inkscape:zoom="1.84375"
+     inkscape:cx="310.23728"
+     inkscape:cy="125.55932"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -52,25 +52,13 @@
        id="linearGradient5"
        inkscape:collect="always">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#6900ff;stop-opacity:1;"
          offset="0"
          id="stop4" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop5" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop2" />
     </linearGradient>
     <linearGradient
        id="linearGradient131"
@@ -1032,7 +1020,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3"
+       xlink:href="#linearGradient5"
        id="linearGradient2"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(6.3e-5,-1.222e-4)"
