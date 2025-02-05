@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="410.57626"
-     inkscape:cy="153.76271"
+     inkscape:zoom="0.46093751"
+     inkscape:cx="676.88134"
+     inkscape:cy="267.9322"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -52,13 +52,25 @@
        id="linearGradient5"
        inkscape:collect="always">
       <stop
-         style="stop-color:#7000ff;stop-opacity:1;"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop4" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
     </linearGradient>
     <linearGradient
        id="linearGradient131"
@@ -1020,7 +1032,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5"
+       xlink:href="#linearGradient3"
        id="linearGradient2"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(6.3e-5,-1.222e-4)"
@@ -1182,7 +1194,7 @@
        d="m 78.107422,8.21875 c 3.070801,1.0393302 6.012119,2.422092 8.882812,3.919922 C 90.490988,11.05048 93.944583,9.8032167 97.487353,8.8479799 100.20238,8.0979053 102.96329,7.4860267 105.76562,7.1757812 99.615885,5.546875 93.466146,3.9179687 87.316406,2.2890625 84.246745,4.265625 81.177083,6.2421875 78.107422,8.21875 Z" />
     <path
        id="path127"
-       style="display:none;mix-blend-mode:difference;fill:url(#linearGradient129);stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:stroke fill markers"
+       style="display:inline;mix-blend-mode:difference;fill:url(#linearGradient129);stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:stroke fill markers"
        d="m 48.517451,0 -33.586063,8.8991983 7.327718,3.9015707 a 23.485535,23.485535 0 0 1 12.448336,20.730517 v 1.718242 21.112406 15.821256 15.82074 20.86126 c 0,1.11586 0.503678,2.77136 1.1498,3.68039 12.452096,17.51901 26.469702,22.92108 26.469702,22.92108 V 72.18319 8.8991983 Z M 86.949214,0 73.139721,8.8991983 V 72.18319 135.46666 c 0,0 14.017606,-5.40207 26.469702,-22.92108 0.646127,-0.90903 1.149797,-2.56453 1.149797,-3.68039 V 88.00393 72.18319 56.361934 35.249528 33.531286 a 23.485535,23.485535 0 0 1 12.44834,-20.730517 l 7.32772,-3.9015707 z" />
     <path
        id="path49"
