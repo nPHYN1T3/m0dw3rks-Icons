@@ -25,12 +25,12 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="15.340622"
-     inkscape:cy="166.44575"
-     inkscape:window-width="3233"
+     inkscape:zoom="1.84375"
+     inkscape:cx="228.88136"
+     inkscape:cy="365.28814"
+     inkscape:window-width="3256"
      inkscape:window-height="1080"
-     inkscape:window-x="1887"
+     inkscape:window-x="1864"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -239,6 +239,201 @@
          stdDeviation="4.6178271"
          id="feGaussianBlur10" />
     </filter>
+    <filter
+       inkscape:label="Tiger Fur"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Tiger fur pattern with folds and bevel around the edges"
+       height="1.4067332"
+       y="-0.20336661"
+       width="1.4255113"
+       x="-0.21275565"
+       style="color-interpolation-filters:sRGB;"
+       id="filter15">
+      <feTurbulence
+         type="turbulence"
+         result="result0"
+         seed="57"
+         numOctaves="2"
+         baseFrequency="0.1 0.015"
+         id="feTurbulence11" />
+      <feComposite
+         result="result1"
+         operator="over"
+         in2="result0"
+         in="result0"
+         id="feComposite11" />
+      <feComposite
+         result="fbSourceGraphic"
+         in="SourceGraphic"
+         operator="arithmetic"
+         in2="result1"
+         k1="1"
+         id="feComposite12" />
+      <feGaussianBlur
+         stdDeviation="10"
+         result="result8"
+         in="fbSourceGraphic"
+         id="feGaussianBlur12" />
+      <feComposite
+         in2="result8"
+         result="result6"
+         operator="xor"
+         in="result8"
+         id="feComposite13" />
+      <feDisplacementMap
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="100"
+         result="result4"
+         in="result1"
+         in2="result6"
+         id="feDisplacementMap13" />
+      <feComposite
+         in2="result4"
+         result="result2"
+         operator="arithmetic"
+         k1="1"
+         in="SourceGraphic"
+         id="feComposite14" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="result2"
+         id="feComposite15" />
+    </filter>
+    <filter
+       inkscape:label="Blue Cheese"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Marble-like bluish speckles"
+       style="color-interpolation-filters:sRGB;"
+       id="filter29"
+       x="-0.021275565"
+       y="-0.020336661"
+       width="1.0425511"
+       height="1.0406733">
+      <feTurbulence
+         numOctaves="2"
+         baseFrequency="0.063"
+         id="feTurbulence27" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 -10 1"
+         id="feColorMatrix27" />
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur27" />
+      <feTurbulence
+         numOctaves="3"
+         baseFrequency="0.81172972972972979"
+         type="fractalNoise"
+         result="result0"
+         id="feTurbulence28" />
+      <feColorMatrix
+         result="result2"
+         values="1.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 1.0000000 2.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 -0.50000000 "
+         id="feColorMatrix28" />
+      <feComposite
+         operator="in"
+         in2="result2"
+         in="result1"
+         id="feComposite28" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         id="feComposite29" />
+    </filter>
+    <filter
+       inkscape:label="3D Marble"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="3D warped marble texture"
+       height="1.4066538"
+       y="-0.2033269"
+       width="1.4254282"
+       x="-0.21271411"
+       style="color-interpolation-filters:sRGB;"
+       id="filter34">
+      <feGaussianBlur
+         stdDeviation="4.9980473"
+         result="result8"
+         id="feGaussianBlur29" />
+      <feTurbulence
+         seed="50"
+         result="result7"
+         type="turbulence"
+         numOctaves="7"
+         baseFrequency="0.01 0.01"
+         id="feTurbulence29" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.4 0 "
+         id="feColorMatrix29" />
+      <feComposite
+         result="result6"
+         in="result5"
+         operator="in"
+         in2="result8"
+         id="feComposite30" />
+      <feDisplacementMap
+         in="result5"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="100"
+         result="result4"
+         in2="result6"
+         id="feDisplacementMap30" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(224,224,224)"
+         id="feFlood30" />
+      <feComposite
+         result="result2"
+         operator="atop"
+         in2="result4"
+         id="feComposite31" />
+      <feComposite
+         in="result2"
+         operator="atop"
+         in2="SourceGraphic"
+         result="result9"
+         id="feComposite32" />
+      <feBlend
+         result="fbSourceGraphic"
+         mode="darken"
+         in2="result9"
+         id="feBlend32" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur32" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="8"
+         specularConstant="0.8"
+         specularExponent="30"
+         id="feSpecularLighting32">
+        <feDistantLight
+           elevation="55"
+           azimuth="235"
+           id="feDistantLight32" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite33" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite34" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -329,5 +524,17 @@
        style="display:inline;opacity:0.8;fill:url(#linearGradient26);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:markers stroke fill"
        d="m 70.175044,123.99863 c 0,0 3.1593,3.67804 9.712964,7.52524 6.553664,3.8472 13.802796,3.73983 13.802796,3.73983 H 46.236863 c 0,0 6.599762,0.0428 13.018454,-3.30062 6.418693,-3.34341 10.919727,-7.96445 10.919727,-7.96445 z"
        sodipodi:nodetypes="czcczc" />
+    <path
+       id="path1"
+       style="display:inline;opacity:1;mix-blend-mode:soft-light;fill:#fff00f;fill-opacity:1;stroke:none;stroke-width:0.923361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:markers stroke fill;filter:url(#filter15)"
+       d="m 13.546506,8.726599 v 31.877124 -3.38e-4 C 22.205051,30.547038 34.846718,24.728722 48.117004,24.728723 h 11.432849 v 89.484007 c 0,6.19821 -4.472222,11.49191 -10.583333,12.52734 H 90.368642 C 84.257531,125.70464 79.785309,120.41094 79.785309,114.21273 V 49.070388 c 0,-17.343152 11.977452,-32.388179 28.879301,-36.275649 l 17.68736,-4.06814 H 57.433186 Z"
+       sodipodi:nodetypes="cccccccccccccc"
+       transform="matrix(1.1461717,0,0,1.1461717,-9.8871761,-10.002181)" />
+    <path
+       id="path15"
+       style="display:inline;opacity:0.4;mix-blend-mode:overlay;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.923361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:markers stroke fill;filter:url(#filter34)"
+       d="m 13.546506,8.726599 v 31.877124 -3.38e-4 C 22.205051,30.547038 34.846718,24.728722 48.117004,24.728723 h 11.432849 v 89.484007 c 0,6.19821 -4.472222,11.49191 -10.583333,12.52734 H 90.368642 C 84.257531,125.70464 79.785309,120.41094 79.785309,114.21273 V 49.070388 c 0,-17.343152 11.977452,-32.388179 28.879301,-36.275649 l 17.68736,-4.06814 H 57.433186 Z"
+       sodipodi:nodetypes="cccccccccccccc"
+       transform="matrix(1.1461717,0,0,1.1461717,-9.8871761,-10.002181)" />
   </g>
 </svg>
