@@ -52,9 +52,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#000000"
-     inkscape:zoom="1.1497525"
-     inkscape:cx="287.88805"
-     inkscape:cy="365.73089"
+     inkscape:zoom="0.81299779"
+     inkscape:cx="518.45159"
+     inkscape:cy="458.18083"
      inkscape:window-width="3233"
      inkscape:window-height="1080"
      inkscape:window-x="1887"
@@ -89,4 +89,20 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <path
+     id="rect2"
+     style="display:none;fill:#ffffff;stroke:none;stroke-width:0.24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:markers stroke fill"
+     d="m 28.936875,7.8229102 v 1.9557421 h 8.297402 l -8.297402,8.2974027 v 1.955742 H 40.000137 V 18.076055 H 31.702676 L 40.000137,9.7786523 V 7.8229102 Z"
+     sodipodi:nodetypes="ccccccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1822px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.24;stroke:#ffff00;stroke-opacity:1;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="18.708738"
+     y="22.058693"
+     id="text4"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1822px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24;stroke:#ffff00;stroke-opacity:1;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="18.708738"
+       y="22.058693">0</tspan></text>
 </svg>
