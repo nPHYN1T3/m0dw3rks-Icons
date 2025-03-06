@@ -27,10 +27,10 @@
      showgrid="false"
      inkscape:zoom="1.3037281"
      inkscape:cx="337.49368"
-     inkscape:cy="169.13035"
-     inkscape:window-width="3256"
+     inkscape:cy="291.85533"
+     inkscape:window-width="3233"
      inkscape:window-height="1080"
-     inkscape:window-x="1864"
+     inkscape:window-x="1887"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><defs
@@ -108,10 +108,10 @@
      inkscape:groupmode="layer"
      id="layer1"><path
        id="rect22"
-       style="opacity:1;stroke-width:8.46665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
-       d="M 76.06254 60.31053 L 76.06254 136.04079 L 97.175463 136.04079 L 97.175463 65.602196 L 76.06254 60.31053 z M 37.735164 76.94724 L 37.735164 136.04079 L 70.615327 136.04079 L 70.615327 76.94724 L 37.735164 76.94724 z M 102.09351 93.817528 L 102.09351 135.43359 L 134.97316 135.43359 L 134.97316 93.817528 L 102.09351 93.817528 z M 0 94.424726 L 0 136.04079 L 32.880163 136.04079 L 32.880163 94.424726 L 0 94.424726 z " /><path
+       style="display:none;opacity:1;stroke-width:8.46665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
+       d="m 76.06254,60.31053 v 75.73026 H 97.175463 V 65.602196 Z M 37.735164,76.94724 v 59.09355 H 70.615327 V 76.94724 Z m 64.358346,16.870288 v 41.616062 h 32.87965 V 93.817528 Z M 0,94.424726 V 136.04079 H 32.880163 V 94.424726 Z" /><path
        id="rect10"
-       style="opacity:1;fill:url(#linearGradient22);stroke-width:8.46666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
+       style="opacity:0.2;fill:url(#linearGradient22);stroke-width:8.46666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
        d="M 8.4666666 0 L 0 10.420552 L 0 41.68221 L 33.866666 0 L 8.4666666 0 z M 59.266666 0 L 0 72.94335 L 0 104.20501 L 84.666666 0 L 59.266666 0 z M 110.06667 0 L 0 135.46666 L 25.4 135.46666 L 135.46666 0 L 110.06667 0 z M 135.46666 31.261657 L 50.799999 135.46666 L 76.199999 135.46666 L 135.46666 62.523315 L 135.46666 31.261657 z M 135.46666 93.784455 L 101.6 135.46666 L 127 135.46666 L 135.46666 125.04611 L 135.46666 93.784455 z " /><g
        id="strokes-5"
        inkscape:label="strokes"
