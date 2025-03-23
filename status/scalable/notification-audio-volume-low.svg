@@ -11,6 +11,7 @@
    sodipodi:docname="notification-audio-volume-low.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -26,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="0.65186406"
      inkscape:cx="412.66273"
-     inkscape:cy="260.02354"
+     inkscape:cy="261.5576"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -34,14 +35,36 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="2.600572e-05"
+       y1="67.733333"
+       x2="71.519506"
+       y2="67.733333"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
        id="path1-6"
-       style="fill:#ffffff;stroke:none;stroke-width:0.529171;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:url(#linearGradient2);stroke:none;stroke-width:0.529171;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        inkscape:transform-center-x="42.725576"
        inkscape:transform-center-y="1.8477945e-06"
        d="M 2.600572e-5,67.733326 71.519506,4.1179455 V 131.34872 Z"

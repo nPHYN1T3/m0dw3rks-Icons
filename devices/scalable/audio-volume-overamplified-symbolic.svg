@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="457.76271"
-     inkscape:cy="-16.271187"
+     inkscape:zoom="1.84375"
+     inkscape:cx="177.89831"
+     inkscape:cy="228.0678"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -36,6 +36,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient33"
        inkscape:collect="always">
@@ -225,6 +237,15 @@
        x2="172.16177"
        y2="-42.756401"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="2.600572e-05"
+       y1="67.733333"
+       x2="71.519506"
+       y2="67.733333"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -232,7 +253,7 @@
      id="layer1">
     <path
        id="path1-6"
-       style="fill:#ffffff;stroke:none;stroke-width:0.529171;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:url(#linearGradient2);stroke:none;stroke-width:0.529171;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        inkscape:transform-center-x="42.725576"
        inkscape:transform-center-y="1.8477945e-06"
        d="M 2.600572e-5,67.733326 71.519506,4.1179455 V 131.34872 Z"

@@ -11,6 +11,7 @@
    sodipodi:docname="notification-audio-volume-high.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="412.66273"
-     inkscape:cy="260.02354"
+     inkscape:zoom="0.92187499"
+     inkscape:cx="321.62712"
+     inkscape:cy="144.81356"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -34,46 +35,64 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="2.600572e-05"
+       y1="67.733333"
+       x2="71.519506"
+       y2="67.733333"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g1"
-       transform="matrix(0.96610169,0,0,0.96610169,-4.5726547e-8,2.2960453)"
-       style="stroke-width:1.03509">
-      <path
-         id="path1-6"
-         style="fill:#ffffff;stroke:none;stroke-width:0.547738;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         inkscape:transform-center-x="42.725576"
-         inkscape:transform-center-y="1.8477945e-06"
-         d="M 2.6965533e-5,67.733326 74.028963,1.8858265 V 133.58084 Z"
-         sodipodi:nodetypes="cccc"
-         inkscape:export-filename="../../../../www/www-fsrv/mail/gfx/audio-on.png"
-         inkscape:export-xdpi="1.3729192"
-         inkscape:export-ydpi="1.3729192" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.547738;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1-7"
-         width="27.29283"
-         height="65.897308"
-         x="-1.3489331e-06"
-         y="34.784679"
-         rx="5.2471995"
-         ry="5.2471995" />
-      <path
-         style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:8.76375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 123.50215,25.618588 a 2.2603086,2.2603086 0 0 0 -1.70832,0.279799 l -0.36237,0.224187 a 2.2603086,2.2603086 0 0 0 -0.73079,3.109073 c 5.9995,9.707357 9.81993,23.371455 9.81993,38.501937 0,15.130488 -3.82048,28.795504 -9.81993,38.502806 a 2.2603086,2.2603086 0 0 0 0.73515,3.11081 l 0.36148,0.22332 a 2.2603086,2.2603086 0 0 0 3.10993,-0.73512 c 6.59107,-10.664522 10.55943,-25.145227 10.55943,-41.101816 0,-15.956586 -3.96836,-30.438166 -10.55943,-41.102679 a 2.2603086,2.2603086 0 0 0 -1.40508,-1.012317 z"
-         id="path36" />
-      <path
-         style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:8.76375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 105.06321,41.590605 a 2.2603086,2.2603086 0 0 0 -1.70747,0.276324 l -0.26592,0.16423 a 2.2603086,2.2603086 0 0 0 -0.73426,3.110811 c 3.48489,5.638615 5.7472,13.67708 5.7472,22.591614 0,8.914536 -2.26231,16.953 -5.7472,22.591617 a 2.2603086,2.2603086 0 0 0 0.73773,3.112548 l 0.26592,0.163362 a 2.2603086,2.2603086 0 0 0 3.10734,-0.735995 c 4.06277,-6.573713 6.46927,-15.409893 6.46927,-25.131532 0,-9.721637 -2.40646,-18.557758 -6.46927,-25.13153 a 2.2603086,2.2603086 0 0 0 -1.40334,-1.011449 z"
-         id="path38" />
-      <path
-         style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:8.76375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 86.608614,57.555673 a 2.2603086,2.2603086 0 0 0 -1.707474,0.276322 l -0.113805,0.07038 a 2.2603086,2.2603086 0 0 0 -0.73426,3.110812 c 0.977797,1.582107 1.685719,4.007389 1.685719,6.720394 0,2.713007 -0.707967,5.137479 -1.685719,6.719528 a 2.2603086,2.2603086 0 0 0 0.73426,3.110808 l 0.113805,0.07039 a 2.2603086,2.2603086 0 0 0 3.110817,-0.734256 c 1.534364,-2.482598 2.380917,-5.676197 2.380917,-9.166468 0,-3.490269 -0.846597,-6.684789 -2.380917,-9.167334 a 2.2603086,2.2603086 0 0 0 -1.403343,-1.010576 z"
-         id="path40" />
-    </g>
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path1-6"
+       style="fill:url(#linearGradient2);stroke:none;stroke-width:0.529171;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:transform-center-x="42.725576"
+       inkscape:transform-center-y="1.8477945e-06"
+       d="M 2.600572e-5,67.733326 71.519506,4.1179455 V 131.34872 Z"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="../../../../www/www-fsrv/mail/gfx/audio-on.png"
+       inkscape:export-xdpi="1.3729192"
+       inkscape:export-ydpi="1.3729192" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529171;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1-7"
+       width="26.367649"
+       height="63.663502"
+       x="-1.3489331e-06"
+       y="35.901585"
+       rx="5.0693283"
+       ry="5.0693283" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 119.31564,27.046457 a 2.183688,2.183688 0 0 0 -1.65042,0.270315 l -0.35008,0.216587 a 2.183688,2.183688 0 0 0 -0.70602,3.003681 c 5.79613,9.378294 9.48705,22.579202 9.48705,37.196786 0,14.61759 -3.69097,27.819385 -9.48705,37.197624 a 2.183688,2.183688 0 0 0 0.71023,3.00536 l 0.34923,0.21575 a 2.183688,2.183688 0 0 0 3.00451,-0.7102 c 6.36764,-10.303013 10.20148,-24.292846 10.20148,-39.708534 0,-15.415684 -3.83384,-29.406363 -10.20148,-39.709367 a 2.183688,2.183688 0 0 0 -1.35745,-0.978002 z"
+       id="path36" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 101.50174,42.476858 a 2.183688,2.183688 0 0 0 -1.649585,0.266957 l -0.256906,0.158663 a 2.183688,2.183688 0 0 0 -0.70937,3.00536 c 3.366761,5.447475 5.552381,13.21345 5.552381,21.825796 0,8.612349 -2.18562,16.378322 -5.552381,21.8258 a 2.183688,2.183688 0 0 0 0.712723,3.007038 l 0.256905,0.157824 a 2.183688,2.183688 0 0 0 3.002003,-0.711046 c 3.92505,-6.350875 6.24998,-14.887524 6.24998,-24.279616 0,-9.39209 -2.32489,-17.928681 -6.24998,-24.279613 a 2.183688,2.183688 0 0 0 -1.35577,-0.977163 z"
+       id="path38" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 83.672728,57.900597 a 2.183688,2.183688 0 0 0 -1.649593,0.266955 l -0.109947,0.06799 a 2.183688,2.183688 0 0 0 -0.70937,3.00536 c 0.944651,1.528477 1.628576,3.871546 1.628576,6.492584 0,2.621041 -0.683968,4.963328 -1.628576,6.491748 a 2.183688,2.183688 0 0 0 0.70937,3.005357 l 0.109947,0.068 A 2.183688,2.183688 0 0 0 85.0285,76.589234 c 1.482352,-2.398443 2.300208,-5.483784 2.300208,-8.855741 0,-3.371954 -0.817899,-6.458186 -2.300208,-8.856577 a 2.183688,2.183688 0 0 0 -1.355772,-0.976319 z"
+       id="path40" />
   </g>
 </svg>
