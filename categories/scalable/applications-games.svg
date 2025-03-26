@@ -905,7 +905,7 @@
     <path
        id="path3"
        clip-path="url(#clipPath4)"
-       style="display:inline;opacity:0.08;mix-blend-mode:normal;fill:url(#radialGradient107);stroke-width:17.0651;stroke-linecap:round;stroke-dashoffset:149.514;paint-order:markers stroke fill;filter:url(#filter5)"
+       style="display:inline;opacity:0.04;mix-blend-mode:normal;fill:url(#radialGradient107);stroke-width:17.0651;stroke-linecap:round;stroke-dashoffset:149.514;paint-order:markers stroke fill;filter:url(#filter5)"
        d="m -61.582031,44.171875 c 0.24645,6.737271 4.920354,13.071286 11.31479,15.239132 5.423141,1.976657 11.812566,0.943063 16.312825,-2.681589 3.494073,-2.773517 5.875244,-6.943768 6.376291,-11.387621 -0.01984,-0.436173 0.314002,-1.179122 -0.266306,-1.479833 -5.527385,-5.656405 -11.133347,-11.235148 -16.692678,-16.860011 -5.681641,5.723307 -11.363282,11.446615 -17.044922,17.169922 z"
        transform="matrix(0.99227328,0,0,0.99227328,111.92654,32.828439)"
        inkscape:label="center-bump-round-highlight" />
