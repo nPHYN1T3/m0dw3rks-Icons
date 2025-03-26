@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="1.3037281"
      inkscape:cx="129.62826"
-     inkscape:cy="232.02691"
+     inkscape:cy="232.79394"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -85,25 +85,37 @@
        ry="12.582506" />
     <text
        xml:space="preserve"
-       style="font-size:111.152px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:none;text-align:center;text-orientation:upright;text-anchor:middle;display:inline;fill:#ffffff;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:111.152px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:none;text-align:center;text-orientation:upright;text-anchor:middle;display:none;fill:#ffffff;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        x="67.73333"
        y="104.77496"
-       id="text3"><tspan
+       id="text3"
+       sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="fill:#ffffff;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="67.73333"
-         y="104.77496">W</tspan></text>
+         x="0"
+         y="0">W</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24.6128px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:none;text-align:center;text-orientation:upright;text-anchor:middle;display:inline;fill:#ffffff;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="font-size:24.6128px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:none;text-align:center;text-orientation:upright;text-anchor:middle;display:none;fill:#ffffff;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        x="22.603559"
        y="129.74236"
-       id="text1"><tspan
+       id="text1"
+       sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
          style="fill:#ffffff;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="22.603559"
-         y="129.74236"
+         x="0"
+         y="0"
          id="tspan2">MS</tspan></text>
+    <path
+       d="M 124.06916,30.691721 100.40594,104.77496 H 80.758955 L 67.244869,61.844674 53.079502,104.77496 H 33.486791 L 11.397501,30.691721 H 31.532947 L 44.395752,78.560893 60.080775,30.691721 H 75.385884 L 89.985439,78.560893 103.98799,30.691721 Z"
+       id="text2"
+       style="font-size:111.152px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:none;text-align:center;text-orientation:upright;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:2.11667;paint-order:markers stroke fill"
+       aria-label="W" />
+    <path
+       d="m 25.85442,129.74236 h -4.266379 l -1.213815,-9.44613 -3.96593,9.44613 h -1.694533 l -3.78566,-9.44613 -1.3940848,9.44613 H 5.2916751 l 2.7881688,-16.40453 h 4.2062891 l 3.328977,8.74908 3.521265,-8.74908 h 4.242343 z m 14.073041,-5.43213 q 0,4.15822 -3.653462,5.42011 -1.273905,0.44466 -2.740097,0.44466 -3.0766,0 -5.708536,-1.86278 l 1.826732,-3.43714 q 1.922875,1.73059 3.761624,1.73059 0.82924,0 1.406102,-0.38458 0.673007,-0.43265 0.673007,-1.22583 0,-0.72108 -0.745114,-1.2018 -0.552827,-0.36054 -1.862786,-0.7331 -1.586371,-0.4687 -1.994982,-0.64897 -0.648971,-0.27641 -1.105654,-0.64897 -1.309958,-1.08161 -1.309958,-3.26888 0,-2.28342 1.35803,-3.78566 1.586372,-1.76665 4.230325,-1.76665 2.655972,0 5.203781,1.334 l -1.706552,3.31696 q -1.394084,-1.08162 -2.812204,-1.08162 -0.685025,0 -1.225833,0.34852 -0.612917,0.3966 -0.612917,1.05758 0,0.64897 0.805204,1.11767 0.360539,0.21633 2.163235,0.74512 2.259378,0.66099 3.220815,1.8748 0.82924,1.03355 0.82924,2.65597 z"
+       id="text4"
+       style="font-size:24.6128px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:none;text-align:center;text-orientation:upright;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:2.11667;paint-order:markers stroke fill"
+       aria-label="MS" />
   </g>
 </svg>

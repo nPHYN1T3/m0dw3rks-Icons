@@ -7,8 +7,8 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="application-flash.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="adobe-flash.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,8 +29,8 @@
    inkscape:document-units="px"
    showgrid="false"
    inkscape:zoom="1.84375"
-   inkscape:cx="99.525426"
-   inkscape:cy="239.18645"
+   inkscape:cx="99.79661"
+   inkscape:cy="239.45763"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
@@ -594,15 +594,21 @@
      inkscape:label="fl-red" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
      x="5.1077518"
      y="63.354851"
-     id="text8"><tspan
+     id="text8"
+     sodipodi:insensitive="true"><tspan
        sodipodi:role="line"
        id="tspan8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264582"
        x="0"
        y="0">Fl</tspan></text>
+  <path
+     d="M 18.523011,63.354851 V 40.357264 H 36.455653 V 33.786525 H 18.523011 V 17.633458 H 37.824557 V 10.994274 H 10.583368 V 63.354851 Z M 54.251397,8.4618019 H 46.311754 V 63.354851 h 7.939643 z"
+     id="text2"
+     style="font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';opacity:0.6;fill:#ffffff;stroke-width:0.264582"
+     aria-label="Fl" />
   <path
      id="text1"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
