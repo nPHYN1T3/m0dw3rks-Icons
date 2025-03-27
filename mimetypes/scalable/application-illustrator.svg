@@ -7,8 +7,8 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="application-illustrator.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="application-vnd.adobe.illustrator.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,8 +29,8 @@
    inkscape:document-units="px"
    showgrid="false"
    inkscape:zoom="1.3037281"
-   inkscape:cx="371.62657"
-   inkscape:cy="207.0984"
+   inkscape:cx="372.01008"
+   inkscape:cy="207.48191"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
@@ -604,17 +604,11 @@
      id="g64"
      transform="translate(100.1101,-11.711321)"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="-91.237892"
-       y="75.065903"
-       id="text61"><tspan
-         sodipodi:role="line"
-         id="tspan61"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264582"
-         x="-91.237892"
-         y="75.065903">Ai</tspan></text>
+    <path
+       d="m -63.791368,22.705326 h -9.719218 l -16.016176,52.360577 h 8.144978 l 4.517383,-15.40017 h 16.016177 l 4.722718,15.40017 h 8.350315 z m -11.841019,30.868785 4.175157,-13.757485 c 0.889788,-3.216925 1.71113,-7.049856 2.464027,-10.26678 h 0.136891 c 0.752897,3.216924 1.642684,6.912965 2.600917,10.335225 l 4.106712,13.68904 z m 43.325764,-26.625183 c 0,-2.669362 -1.84802,-4.654273 -4.585828,-4.654273 -2.737808,0 -4.654274,1.984911 -4.654274,4.654273 0,2.532473 1.848021,4.585829 4.585828,4.585829 2.874699,0 4.654274,-2.053356 4.654274,-4.585829 z m -0.684452,10.335225 h -7.939643 v 37.78175 h 7.939643 z"
+       id="text61"
+       style="font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';opacity:0.6;fill:#ffffff;stroke-width:0.264582"
+       aria-label="Ai" />
     <path
        id="text8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -623,6 +617,18 @@
        id="text64"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
        d="m -64.158799,22.705269 15.85433,51.831461 h -7.98349 l 0.16226,0.529169 h 8.3504 l -16.01608,-52.36063 z m 30.24673,0.60358 c 0.68422,0.810693 1.07642,1.887415 1.07642,3.110922 0,2.532469 -1.7798,4.585766 -4.65449,4.585766 -1.18755,0 -2.20669,-0.387276 -2.98122,-1.031461 0.80856,0.954939 2.02722,1.560628 3.51038,1.560628 2.8747,0 4.6545,-2.053297 4.6545,-4.585766 0,-1.51197 -0.59393,-2.803622 -1.60559,-3.640089 z m -35.61023,5.711796 c -0.75289,3.216922 -1.57414,7.049636 -2.46393,10.266558 l -4.17545,13.757817 h 0.68988 l 4.01474,-13.22865 c 0.84092,-3.040271 1.61557,-6.602069 2.33422,-9.702768 -0.08389,-0.355438 -0.18169,-0.747629 -0.26251,-1.092956 z m 36.00194,8.263579 V 74.53673 h -7.4104 v 0.529169 h 7.93957 V 37.284224 Z m -43.87329,21.852413 -4.517553,15.400093 h -7.45381 l -0.16175,0.529169 h 8.14472 l 4.517563,-15.400096 h 15.64917 l -0.16226,-0.529167 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;line-height:1.25;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;opacity:0.6;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="-91.237892"
+       y="75.065903"
+       id="text1"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4452px;font-family:'Adobe Fan Heiti Std';-inkscape-font-specification:'Adobe Fan Heiti Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264582"
+         x="0"
+         y="0">Ai</tspan></text>
   </g>
 </g>
 <metadata

@@ -7,13 +7,16 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="text-x-dsrc.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#292929"
@@ -26,11 +29,11 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.65186406"
-     inkscape:cx="161.84356"
-     inkscape:cy="460.21865"
+     inkscape:cx="-203.26324"
+     inkscape:cy="890.52309"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
-     inkscape:window-x="1864"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -232,8 +235,9 @@
     <path
        id="path18"
        style="opacity:0.4;fill:url(#linearGradient19);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 5.9296959 65.853568 L 32.032778 355.7472 A 357.85071 145.26482 4.598082e-16 0 0 36.460866 355.84139 A 357.85071 145.26482 4.598082e-16 0 0 167.13808 345.64739 L 142.50799 72.112408 A 357.85071 145.26482 4.598082e-16 0 0 36.461219 65.312126 A 357.85071 145.26482 4.598082e-16 0 0 5.9296959 65.853568 z "
-       transform="rotate(5.1452457)" />
+       d="M 5.9296959,65.853568 12.148763,134.92081 147.06957,122.77205 142.50799,72.112408 C 108.20262,67.693751 72.451432,65.401195 36.461219,65.312126 26.269695,65.316037 16.083234,65.496682 5.9296959,65.853568 Z"
+       transform="rotate(5.1452457)"
+       sodipodi:nodetypes="cccccc" />
     <path
        id="path19"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -260,7 +264,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata1">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -280,7 +284,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -300,7 +304,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata3">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -320,7 +324,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata4">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -340,7 +344,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -360,7 +364,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -380,7 +384,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata8">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -400,7 +404,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata9">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -420,7 +424,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -440,7 +444,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata11">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -460,7 +464,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -480,7 +484,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -500,7 +504,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -520,7 +524,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata15">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -540,7 +544,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata16">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -560,7 +564,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata17">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -580,7 +584,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -600,7 +604,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata19">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -620,7 +624,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata20">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -640,7 +644,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata21">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -660,7 +664,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata22">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -680,7 +684,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata23">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -700,7 +704,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata24">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -720,7 +724,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata25">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -740,7 +744,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata26">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -760,7 +764,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata27">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -780,7 +784,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -800,7 +804,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata29">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -820,7 +824,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata30">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -840,7 +844,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata31">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -860,7 +864,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata32">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -880,7 +884,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata33">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -900,7 +904,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata34">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -920,7 +924,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata35">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -940,7 +944,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata36">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -960,7 +964,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata37">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -980,7 +984,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata38">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1000,7 +1004,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata39">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1020,7 +1024,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata40">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1040,7 +1044,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata41">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1060,7 +1064,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata42">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1080,7 +1084,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata43">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1100,7 +1104,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata44">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1120,7 +1124,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata45">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1140,7 +1144,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata46">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1160,7 +1164,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata47">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1180,7 +1184,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata48">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1200,7 +1204,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata49">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1220,7 +1224,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata50">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1240,7 +1244,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata51">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1260,7 +1264,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata52">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1280,7 +1284,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata53">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1300,7 +1304,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata54">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1320,7 +1324,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata55">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1340,7 +1344,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata56">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1360,7 +1364,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata57">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1380,7 +1384,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata58">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1400,7 +1404,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata59">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1420,7 +1424,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata60">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1440,7 +1444,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata61">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1460,7 +1464,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata62">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1480,7 +1484,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata63">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1500,7 +1504,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata64">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1520,7 +1524,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata65">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1540,7 +1544,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata66">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1560,7 +1564,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata67">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -1580,7 +1584,7 @@
     </rdf:RDF>
   </metadata>
   <metadata
-     id="metadata6">
+     id="metadata68">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
