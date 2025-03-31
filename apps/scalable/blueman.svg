@@ -7,8 +7,8 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="blueman.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="bluetooth.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,8 +26,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="-201"
-     inkscape:cy="272"
+     inkscape:cx="-202"
+     inkscape:cy="273"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -183,7 +183,7 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter29"
-       x="-0.4766063"
+       x="-0.47660631"
        y="-0.14299214"
        width="1.9532845"
        height="1.2859843">
@@ -242,8 +242,7 @@
     <path
        id="rect29"
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.03729;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       d="M -80.028273 68.21684 L -54.076664 68.217205 L -37.502508 84.791361 L -56.201143 84.791361 L -56.201143 92.04397 L -32.374378 92.04397 L -32.374013 115.8711 L -25.121404 115.8711 L -25.121404 97.172465 L -8.5472481 113.74662 L -8.5468827 139.69823 L -1.294639 120.99923 L -1.294639 110.74297 L -1.294639 92.044335 L -1.294639 84.791726 L -25.121769 84.791361 L -25.121769 68.217205 L -25.121769 60.964596 L -51.073014 60.964596 L -61.329273 60.964596 L -80.028273 68.21684 z M -43.820405 68.217205 L -32.374378 68.217205 L -32.374378 79.663231 L -43.820405 68.217205 z M -19.993274 92.044335 L -8.5472481 92.044335 L -8.5472481 103.49036 L -19.993274 92.044335 z "
-       transform="rotate(45)"
+       d="m -77.837625,17.188355 18.350301,18.350817 v 23.439396 l -13.221932,-13.221931 -5.128369,5.128369 16.848067,16.848067 -16.848067,16.848583 5.128369,5.128369 13.221932,-13.221932 v 23.439396 l -18.350301,18.350821 18.350301,-8.09408 7.252271,-7.25227 13.221931,-13.221935 5.128369,-5.128369 -16.848067,-16.848583 11.719698,-11.719698 5.128369,-5.128369 -18.350301,-18.350302 -7.25227,-7.25227 z m 25.602571,25.603087 8.093563,8.093564 -8.093562,8.093562 z m 10e-7,33.696651 8.093562,8.093563 -8.093562,8.093562 z"
        inkscape:label="METAL TOOTH" />
     <path
        id="path33"
