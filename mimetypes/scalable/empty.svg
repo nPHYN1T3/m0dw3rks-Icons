@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="248.51807"
-     inkscape:cy="347.46508"
+     inkscape:zoom="0.92187499"
+     inkscape:cx="274.44068"
+     inkscape:cy="279.32204"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -71,6 +71,19 @@
          stdDeviation="12.785449"
          id="feGaussianBlur2" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.069119459"
+       y="-0.069120539"
+       width="1.1382389"
+       height="1.1382411">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.02734"
+         id="feGaussianBlur4" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -88,5 +101,10 @@
        cx="67.73333"
        cy="67.73333"
        r="35.515137" />
+    <path
+       style="fill:#ffffff;stroke-width:1.02394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter4);opacity:0.2"
+       d="m 67.733327,15.175759 c -28.984852,0 -52.55839,23.5719 -52.55839,52.556752 0,28.984854 23.573538,52.558399 52.55839,52.558399 28.984854,0 52.558403,-23.573545 52.558403,-52.558399 0,-28.984852 -23.573549,-52.556752 -52.558403,-52.556752 z m 0,7.122469 c 25.135647,0 45.435933,20.29864 45.435933,45.434283 0,25.135644 -20.300286,45.435939 -45.435933,45.435939 -25.13564,0 -45.435928,-20.300295 -45.435928,-45.435939 0,-25.135643 20.300288,-45.434283 45.435928,-45.434283 z"
+       id="path3"
+       transform="matrix(0.9766121,0,0,0.9766121,1.5841394,1.5841385)" />
   </g>
 </svg>
