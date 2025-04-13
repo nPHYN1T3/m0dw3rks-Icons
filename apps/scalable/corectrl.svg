@@ -26,11 +26,11 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="235.9322"
-     inkscape:cy="215.05085"
-     inkscape:window-width="3233"
+     inkscape:cx="235.66102"
+     inkscape:cy="215.59322"
+     inkscape:window-width="3256"
      inkscape:window-height="1080"
-     inkscape:window-x="1887"
+     inkscape:window-x="1864"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -883,9 +883,10 @@
      id="layer1">
     <path
        id="rect12"
-       style="opacity:1;fill:url(#linearGradient14);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       style="display:inline;opacity:1;fill:url(#linearGradient14);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
        d="M 7.408332,0 H 135.46666 V 135.46666 H 0 V 7.408332 Z"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       sodipodi:insensitive="true" />
     <rect
        style="display:inline;fill:url(#linearGradient26);stroke-width:1.00012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter25);opacity:0.4"
        id="rect25"
