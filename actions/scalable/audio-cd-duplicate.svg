@@ -7,7 +7,7 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
    sodipodi:docname="audio-cd-duplicate.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,17 +28,33 @@
    inkscape:deskcolor="#1a1a1a"
    inkscape:document-units="px"
    showgrid="false"
-   inkscape:zoom="0.92187498"
-   inkscape:cx="221.28814"
-   inkscape:cy="263.05085"
+   inkscape:zoom="0.65186405"
+   inkscape:cx="149.57106"
+   inkscape:cy="149.57106"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="layer3" />
+   inkscape:current-layer="g64" />
 <defs
    id="defs2">
+  <linearGradient
+     id="linearGradient3"
+     inkscape:collect="always">
+    <stop
+       style="stop-color:#f9f9f9;stop-opacity:1;"
+       offset="0"
+       id="stop1" />
+    <stop
+       style="stop-color:#929292;stop-opacity:1;"
+       offset="0.5"
+       id="stop2" />
+    <stop
+       style="stop-color:#f9f9f9;stop-opacity:1;"
+       offset="1"
+       id="stop3" />
+  </linearGradient>
   <linearGradient
      id="linearGradient22"
      inkscape:collect="always">
@@ -974,7 +990,7 @@
      y2="135.46666" />
   <linearGradient
      inkscape:collect="always"
-     xlink:href="#linearGradient147"
+     xlink:href="#linearGradient3"
      id="linearGradient65"
      gradientUnits="userSpaceOnUse"
      gradientTransform="matrix(-0.213147,0.80445345,-0.80445345,-0.213147,125.29399,16.318149)"
@@ -1312,7 +1328,8 @@
      inkscape:label="shadow" />
   <g
      id="g64"
-     transform="rotate(88.578019,67.733333,68.024778)">
+     transform="rotate(88.578019,67.733333,68.024778)"
+     style="display:inline">
     <path
        style="color:#000000;display:inline;fill:#ffffff;fill-opacity:0.4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
        d="M 56.362865,0 C 25.250083,-1.0350157e-6 -6.1147218e-7,25.252028 0,56.367742 -1.4110896e-6,87.48346 25.250083,112.73711 56.362865,112.73711 c 31.112781,0 56.362875,-25.253658 56.362865,-56.369368 C 112.72574,25.252029 87.475646,1.411385e-6 56.362865,0 Z m 0,2.6429237 c 29.684647,1.3e-6 53.721575,24.0369543 53.721575,53.7248183 0,29.687867 -24.036928,53.726438 -53.721575,53.726448 -29.684644,0 -53.7199428,-24.038581 -53.7199413,-53.726448 C 2.642923,26.679876 26.678221,2.6429227 56.362865,2.6429237 Z"
