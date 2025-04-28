@@ -7,7 +7,7 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
    sodipodi:docname="preferences-desktop-font.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,12 +28,12 @@
      inkscape:zoom="1.84375"
      inkscape:cx="321.89831"
      inkscape:cy="172.74576"
-     inkscape:window-width="3233"
+     inkscape:window-width="3256"
      inkscape:window-height="1080"
-     inkscape:window-x="1887"
+     inkscape:window-x="1864"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
@@ -252,7 +252,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient19);stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect10"
@@ -280,7 +281,7 @@
        inkscape:label="e shadow" />
     <path
        id="path1"
-       style="display:inline;fill:url(#linearGradient2);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;opacity:0.2"
+       style="display:inline;opacity:0.2;fill:url(#linearGradient2);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
        d="m 67.732817,33.866666 c -18.653902,0 -33.866151,15.212249 -33.866151,33.866151 0,18.653901 15.212249,33.867183 33.866151,33.867183 12.490337,0 23.430036,-6.826012 29.301057,-16.933332 H 86.694708 c -4.643869,5.200705 -11.404178,8.466665 -18.961891,8.466665 -12.634102,0 -23.041561,-9.12082 -25.044984,-21.166666 h 50.091 6.969086 1.577161 c 0.17455,-1.38828 0.2749,-2.799017 0.27492,-4.233334 v -5e-4 C 101.6,49.078915 86.386718,33.866666 67.732817,33.866666 Z m 0,8.466925 c 12.63439,0 23.042976,9.120369 25.046276,21.166409 h -2.6e-4 -50.091258 C 44.690641,51.453938 55.09841,42.333591 67.732817,42.333591 Z"
        inkscape:label="letter e" />
     <circle
