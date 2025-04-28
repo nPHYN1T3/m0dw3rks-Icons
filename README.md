@@ -4,6 +4,8 @@ Right now the state of the set is incomplete, with several thousand needing to b
 
 1652 icons total from 16x16 to 512x512. Fair warning my focus is for dark themes. I have this strange aversion to staring into lamps all day...I mean monitors. While I typically focus on things I use, there are already a lot of things I don't use included in the set. I'm re-introducing the scalable versions. Beware that many with text are not converted to paths and may "explode" or look wrong if you don't have the font. In addition to the font issues many render wrong in general. Mesh gradients and various filters don't play nice outside Inkscape. (Small Preview Below)
 
+As of May 2025 I may be curtailing things a bit. I may try to just focus on system icons (panel/places/devices/mime) from here on out. The backport cruft of old icon names combined the stupidity of one application having 12 icon names for the same icon because of how it is installed is more than I care to keep track of. This may also mean the icon count will go down as I remove cruft symlinked icons. Toss in keeping up with what is or isn't a dead project/application and things are just an overgrowth of issues. There is a point at which all this com.stupid, org.stupid, net.stupid and io.stupid just makes all this pointlessly painful and...stupid. This feels like "Say what you mean!" This is an icon for "coolapplication" not "org.repowebsite.someonesgrandma.phraseisawonatshirtinthe1970s.coolapplication."
+
 # Installation
 Unzip / Decompress or clone the git to either ~/.local/share/icons or /usr/share/icons for system wide use.
 You may want to alter the index.theme file and set the Inherits value to your preferred fallback icon set to fill in potential gaps.
