@@ -7,7 +7,7 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
    sodipodi:docname="stock_new-text.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,9 +28,9 @@
    inkscape:deskcolor="#505050"
    inkscape:document-units="px"
    showgrid="false"
-   inkscape:zoom="1.1214272"
-   inkscape:cx="548.85417"
-   inkscape:cy="232.73914"
+   inkscape:zoom="0.79296878"
+   inkscape:cx="587.03446"
+   inkscape:cy="334.81772"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
@@ -39,6 +39,23 @@
    inkscape:current-layer="layer1" />
 <defs
    id="defs2">
+  <inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect1"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,5.2916664,0,1 @ F,0,1,1,0,5.2916664,0,1 @ F,0,1,1,0,5.2916664,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+     radius="20"
+     unit="px"
+     method="auto"
+     mode="F"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="true"
+     hide_knots="false" />
   <linearGradient
      id="linearGradient20"
      inkscape:collect="always">
@@ -156,6 +173,28 @@
      r="40.973158"
      gradientTransform="matrix(1,0,0,1.2972073,0,-16.86578)"
      gradientUnits="userSpaceOnUse" />
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient2"
+     id="linearGradient3"
+     x1="3.174998"
+     y1="18.520855"
+     x2="132.29167"
+     y2="116.94581"
+     gradientUnits="userSpaceOnUse" />
+  <filter
+     inkscape:collect="always"
+     style="color-interpolation-filters:sRGB"
+     id="filter5"
+     x="-0.066187248"
+     y="-0.091111747"
+     width="1.1323745"
+     height="1.1822235">
+    <feGaussianBlur
+       inkscape:collect="always"
+       stdDeviation="3.0947721"
+       id="feGaussianBlur5" />
+  </filter>
 </defs>
 <g
    inkscape:label="Layer 1"
@@ -163,7 +202,7 @@
    id="layer1">
   <g
      id="g21"
-     transform="translate(-128.59362,0.18796496)">
+     transform="translate(39.391721,-2.644759)">
     <rect
        style="fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient19);stroke-width:1.79705;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect17"
@@ -177,6 +216,15 @@
        style="fill:url(#radialGradient21);fill-opacity:1;stroke:none;stroke-width:1.79705;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter20)"
        d="m 254.19531,9.3183594 c -23.37546,0.02794 -46.75145,0.00888 -70.12695,0.1074218 -0.06,0.8768958 0.10765,1.7595858 0.0314,2.6437498 0.007,30.700793 -0.002,61.401627 0.0779,92.102349 0.92215,0.054 1.85365,-0.11931 2.78477,-0.043 22.53104,-0.0119 45.09098,0.031 67.60391,-0.0761 0.0272,-0.96201 -0.10742,-1.92774 -0.0432,-2.89648 -0.012,-30.611916 -0.004,-61.24518 -0.0447,-91.84375 -0.0944,0.00195 -0.18881,0.00391 -0.28321,0.00586 z" />
   </g>
+  <path
+     id="rect1"
+     style="fill:#c2c2c2;stroke:url(#linearGradient3);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;fill-opacity:1"
+     d="m 3.174998,29.104188 v -5.291667 c 2e-7,-2.922506 2.3691599,-5.291666 5.2916664,-5.291666 H 32.676042 c 3.334659,0 6.478282,1.556218 8.500229,4.207951 l 1.652666,2.167431 c 2.021946,2.651733 5.165569,4.207951 8.500229,4.207951 H 132.29167 V 116.94581 H 3.174998 Z"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     id="path3"
+     style="fill:#a3a29d;fill-opacity:1;stroke:none;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter5);opacity:0.4"
+     d="m 31.6298,26.993461 c -6.668602,0.03385 -13.337532,-0.01344 -20.005862,0.07031 0.0515,27.143199 0.0371,54.286455 0.0391,81.429689 37.393234,0 74.786463,0 112.179692,0 0,-23.634768 0,-47.269533 0,-70.904299 -24.828751,-0.01774 -49.658057,0.02331 -74.486328,-0.123047 -6.1287,-0.595956 -11.574728,-4.508558 -14.884765,-9.585937 -0.663811,-0.8344 -1.849216,-0.967213 -2.841797,-0.886719 z" />
   <path
      id="rect15"
      style="fill:#00ff00;fill-opacity:1;stroke:url(#linearGradient17);stroke-width:1.79705;stroke-linejoin:round;paint-order:markers stroke fill"
