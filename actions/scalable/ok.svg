@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
-   sodipodi:docname="dialog-ok.svg"
+   sodipodi:docname="ok.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.23046875"
-     inkscape:cx="-258.16949"
-     inkscape:cy="305.8983"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="169.51387"
+     inkscape:cy="534.62067"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -82,7 +82,8 @@
        y1="125.12001"
        x2="133.94711"
        y2="10.346653"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-6.000001e-7,7.937501)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -90,8 +91,9 @@
      id="layer1">
     <path
        id="rect1"
-       style="fill:#00ff00;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;stroke:url(#linearGradient5);stroke-opacity:1"
-       d="M 133.94712,10.346653 46.752443,97.541846 16.184284,44.596241 1.5195462,53.062908 34.356301,109.93799 l 2.339392,4.05143 6.425964,11.13059 6.198072,-6.19859 9.40666,-9.40615 75.220731,-75.220726 z" />
+       style="fill:#00ff00;stroke:url(#linearGradient5);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 133.94712,18.284154 46.752442,89.604347 16.184283,47.242075 1.5195456,61.000409 43.121656,117.18251 133.94712,42.232045 Z"
+       sodipodi:nodetypes="ccccccc" />
     <path
        id="rect1-6"
        style="display:none;fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient3);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
