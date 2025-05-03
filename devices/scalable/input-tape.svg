@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="245.06643"
-     inkscape:cy="203.64675"
+     inkscape:zoom="2.6074562"
+     inkscape:cx="458.10933"
+     inkscape:cy="242.9571"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -36,6 +36,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a259af;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#a259af;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <linearGradient
        id="linearGradient84"
        inkscape:collect="always">
@@ -302,6 +314,42 @@
          stdDeviation="1.0577506"
          id="feGaussianBlur85" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="131.66388"
+       y1="45.764221"
+       x2="132.69486"
+       y2="67.733339"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient3"
+       x1="131.66388"
+       y1="45.764221"
+       x2="132.59686"
+       y2="67.733337"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       x1="131.66388"
+       y1="45.764221"
+       x2="132.59686"
+       y2="67.733337"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient7"
+       x1="131.66388"
+       y1="45.764221"
+       x2="132.69486"
+       y2="67.733339"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -456,7 +504,7 @@
        style="opacity:1;fill:#2c0e33;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
        d="m 106.76854,126.54271 0.17311,1.05834 h 11.9414 v -1.05834 z m -14.110254,5.02244 v 1.05833 h 5.871476 v -1.05833 z" />
     <rect
-       style="opacity:0.4;fill:#a259af;fill-opacity:1;stroke-width:0.278745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter69)"
+       style="opacity:0.4;fill:url(#linearGradient7);fill-opacity:1;stroke-width:0.278745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter69)"
        id="rect66"
        width="0.64577115"
        height="43.938232"
@@ -465,7 +513,7 @@
        ry="0.32288557"
        transform="matrix(0.94919286,0,0,0.94919286,6.7058788,3.4413333)" />
     <rect
-       style="opacity:0.4;fill:#a259af;fill-opacity:1;stroke-width:0.298043;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter66)"
+       style="opacity:0.4;fill:url(#linearGradient4);fill-opacity:1;stroke-width:0.298043;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter66)"
        id="rect67"
        width="0.64577115"
        height="43.938232"
@@ -474,7 +522,7 @@
        ry="0.32288557"
        transform="matrix(0.94919286,0,0,0.83025773,1.4141842,11.497207)" />
     <rect
-       style="opacity:0.4;fill:#a259af;fill-opacity:1;stroke-width:0.320957;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter66)"
+       style="opacity:0.4;fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.320957;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter66)"
        id="rect68"
        width="0.64577115"
        height="43.938232"
@@ -483,7 +531,7 @@
        ry="0.32288557"
        transform="matrix(0.94919286,0,0,0.71594145,-3.8774952,19.240228)" />
     <rect
-       style="opacity:0.4;fill:#a259af;fill-opacity:1;stroke-width:0.378419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter70)"
+       style="opacity:0.4;fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.378419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter70)"
        id="rect69"
        width="0.64577115"
        height="43.938232"
