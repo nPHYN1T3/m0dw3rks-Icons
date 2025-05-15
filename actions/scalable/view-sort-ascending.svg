@@ -118,51 +118,19 @@
        id="linearGradient18"
        x1="3.174998"
        y1="53.324333"
-       x2="132.29167"
-       y2="82.142326"
+       x2="132.68782"
+       y2="186.86125"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-52.387502)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient16"
-       id="linearGradient19"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0)"
-       x1="3.174998"
-       y1="53.324333"
-       x2="132.29167"
-       y2="82.142326" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient16"
-       id="linearGradient20"
-       gradientUnits="userSpaceOnUse"
-       x1="3.174998"
-       y1="53.324333"
-       x2="132.29167"
-       y2="82.142326"
-       gradientTransform="translate(0,52.266003)" />
+       gradientTransform="matrix(1.0245901,0,0,1,-1.6655674,-52.387502)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient18);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+    <path
        id="rect16"
-       width="129.11667"
-       height="28.817995"
-       x="3.174998"
-       y="0.93682998"
-       ry="14.408998" />
-    <rect
-       style="fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient19);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
-       id="rect18"
-       width="129.11667"
-       height="28.817995"
-       x="3.174998"
-       y="53.324333"
-       ry="14.408998" />
+       style="fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient18);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       d="M 15.996439 0.93689371 C 8.0138552 0.93689371 1.5875 7.3632486 1.5875 15.345833 C 1.5875 23.328418 8.0138552 29.754773 15.996439 29.754773 L 69.068651 29.754773 L 89.234345 0.93689371 L 15.996439 0.93689371 z M 109.73232 0.93689371 L 127.96893 26.997835 C 131.55625 24.381957 133.87917 20.145034 133.87917 15.345833 C 133.87917 7.3632486 127.45281 0.93689371 119.47023 0.93689371 L 109.73232 0.93689371 z M 15.996439 53.324393 C 8.0138552 53.324393 1.5875 59.750748 1.5875 67.733332 C 1.5875 75.715917 8.0138552 82.142272 15.996439 82.142272 L 74.405277 82.142272 A 8.4675129 8.4675129 0 0 1 74.081782 79.824067 L 74.081782 59.433581 L 64.558849 59.433581 A 8.4675129 8.4675129 0 0 1 56.42808 53.324393 L 15.996439 53.324393 z M 124.88282 59.433581 L 124.88282 79.824067 A 8.4675129 8.4675129 0 0 1 124.77998 81.139749 C 130.11975 79.03413 133.87917 73.838853 133.87917 67.733332 C 133.87917 64.638144 132.91277 61.776925 131.26434 59.433581 L 124.88282 59.433581 z M 15.996439 105.59045 C 8.0138552 105.59045 1.5875 112.01681 1.5875 119.99939 C 1.5875 127.98198 8.0138552 134.40833 15.996439 134.40833 L 119.47023 134.40833 C 127.45281 134.40833 133.87917 127.98198 133.87917 119.99939 C 133.87917 112.01681 127.45281 105.59045 119.47023 105.59045 L 15.996439 105.59045 z " />
     <path
        id="path1"
        style="fill:#00ff00;fill-opacity:1;stroke:url(#linearGradient6);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
@@ -174,13 +142,5 @@
        d="m 173.41286,-15.354322 v -5.291667 c 0,-2.922506 2.36916,-5.291666 5.29166,-5.291666 h 24.20938 c 3.33466,0 6.47828,1.556218 8.50023,4.207951 l 1.65267,2.167431 c 2.02194,2.651733 5.16557,4.207951 8.50023,4.207951 h 80.9625 V 72.487304 H 173.41286 Z"
        sodipodi:nodetypes="ccccccccccc"
        sodipodi:insensitive="true" />
-    <rect
-       style="fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient20);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
-       id="rect19"
-       width="129.11667"
-       height="28.817995"
-       x="3.174998"
-       y="105.59033"
-       ry="14.408998" />
   </g>
 </svg>
