@@ -28,9 +28,9 @@
    inkscape:deskcolor="#505050"
    inkscape:document-units="px"
    showgrid="false"
-   inkscape:zoom="0.79296878"
-   inkscape:cx="362.56156"
-   inkscape:cy="58.640392"
+   inkscape:zoom="1.5859376"
+   inkscape:cx="557.08372"
+   inkscape:cy="78.50246"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
@@ -43,11 +43,11 @@
      id="linearGradient49"
      inkscape:collect="always">
     <stop
-       style="stop-color:#ff6600;stop-opacity:1;"
+       style="stop-color:#ffcc00;stop-opacity:1;"
        offset="0.24333334"
        id="stop50" />
     <stop
-       style="stop-color:#ff6600;stop-opacity:0;"
+       style="stop-color:#ffcc00;stop-opacity:0;"
        offset="1"
        id="stop51" />
   </linearGradient>
@@ -128,7 +128,7 @@
            id="stop30" />
         <stop
            path="l 1.42109e-14,67.7333"
-           style="stop-color:#ff6600;stop-opacity:1"
+           style="stop-color:#ffcc00;stop-opacity:1"
            id="stop31" />
         <stop
            path="l 0,0"
@@ -142,7 +142,7 @@
            id="stop33" />
         <stop
            path="l -67.7333,1.42109e-14"
-           style="stop-color:#ff6600;stop-opacity:1"
+           style="stop-color:#ffcc00;stop-opacity:1"
            id="stop34" />
         <stop
            path="l 0,0"
@@ -191,7 +191,7 @@
      d="m 60.223059,8.3464201 c -32.701224,0 -59.38601369,26.6851729 -59.38601369,59.3869149 0,32.701735 26.68478969,59.386905 59.38601369,59.386905 h 8.76e-4 V 110.7371 h -8.76e-4 c -23.847478,0 -43.003314,-19.155905 -43.003314,-43.003765 0,-23.847853 19.155836,-43.006036 43.003314,-43.006036 23.847476,2e-6 43.005121,19.158183 43.005121,43.006036 h 16.3827 c 0,-32.701742 -26.686595,-59.3869149 -59.387821,-59.3869149 z" />
   <path
      sodipodi:type="star"
-     style="fill:#ff6600;fill-opacity:1;stroke:url(#linearGradient53);stroke-width:0.911129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     style="fill:#ffcc00;fill-opacity:1;stroke:url(#linearGradient53);stroke-width:0.911129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
      id="path3"
      inkscape:flatsided="true"
      sodipodi:sides="3"
