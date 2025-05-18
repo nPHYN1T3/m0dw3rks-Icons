@@ -28,9 +28,9 @@
    inkscape:deskcolor="#505050"
    inkscape:document-units="px"
    showgrid="false"
-   inkscape:zoom="1"
-   inkscape:cx="425.5"
-   inkscape:cy="349.5"
+   inkscape:zoom="2.8284271"
+   inkscape:cx="507.17234"
+   inkscape:cy="230.34003"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
    inkscape:window-x="1864"
@@ -232,19 +232,6 @@
      y1="93.798271"
      x2="67.73333"
      y2="12.771359" />
-  <filter
-     inkscape:collect="always"
-     style="color-interpolation-filters:sRGB"
-     id="filter36"
-     x="-0.024693095"
-     y="-0.040638815"
-     width="1.0493862"
-     height="1.0812776">
-    <feGaussianBlur
-       inkscape:collect="always"
-       stdDeviation="1.3720101"
-       id="feGaussianBlur36" />
-  </filter>
   <linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient38"
@@ -288,22 +275,26 @@
      r="14.078465"
      gradientTransform="translate(0,-3.023265e-5)"
      gradientUnits="userSpaceOnUse" />
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient2"
+     id="linearGradient5"
+     x1="1.0583348"
+     y1="93.894875"
+     x2="134.40833"
+     y2="93.894875"
+     gradientUnits="userSpaceOnUse" />
 </defs>
 <g
    inkscape:label="Layer 1"
    inkscape:groupmode="layer"
    id="layer1">
-  <path
-     id="path25"
-     style="display:none;opacity:0.2;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter36)"
-     d="m -61.05733,61.567189 -24.26209,18.814355 h -29.46022 -29.55736 l -24.16494,-18.738908 h -12.9527 v 80.951134 h 47.07207 v -0.0755 h 39.20587 47.07206 V 61.567189 Z"
-     clip-path="url(#clipPath36)"
-     transform="translate(182.51255,-8.185598)" />
   <g
      id="g47"
-     transform="translate(0,-26.161546)">
+     transform="translate(0,-26.161546)"
+     style="stroke:none;stroke-opacity:1">
     <rect
-       style="display:inline;fill:url(#linearGradient18);stroke:none;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       style="display:inline;fill:url(#linearGradient18);stroke:url(#linearGradient5);stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1"
        width="133.34999"
        height="81.026917"
@@ -312,17 +303,17 @@
        ry="0" />
     <path
        id="path18"
-       style="display:inline;opacity:1;fill:url(#linearGradient23);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       style="display:inline;opacity:1;fill:url(#linearGradient23);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;stroke:none;stroke-opacity:1"
        d="m 134.40833,53.910582 -12.95282,0.529167 -34.119481,25.4 V 134.3329 h 47.072301 z"
        sodipodi:nodetypes="cccccc" />
     <path
        id="rect18"
-       style="opacity:1;fill:url(#linearGradient25);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient25);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;stroke:none;stroke-opacity:1"
        d="m 1.0583348,53.986026 12.9528152,0.529167 34.119481,25.4 V 134.40834 H 1.0583348 Z"
        sodipodi:nodetypes="cccccc" />
     <path
        id="rect19"
-       style="opacity:1;fill:url(#linearGradient21);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient21);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;stroke:none;stroke-opacity:1"
        d="m 34.395834,72.195946 h 33.337499 33.337497 l 33.3375,62.136954 H 1.058333 Z"
        sodipodi:nodetypes="cccccc" />
     <rect
