@@ -7,8 +7,8 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="stock_new-tab.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="tab-new.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,10 +30,10 @@
    showgrid="false"
    inkscape:zoom="1.1214272"
    inkscape:cx="548.85417"
-   inkscape:cy="232.73914"
+   inkscape:cy="233.185"
    inkscape:window-width="3256"
    inkscape:window-height="1080"
-   inkscape:window-x="2176"
+   inkscape:window-x="1864"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
    inkscape:current-layer="layer1" />
@@ -175,7 +175,7 @@
      sodipodi:nodetypes="scccccccccccss" />
   <path
      id="rect15"
-     style="fill:#00ff00;fill-opacity:1;stroke:url(#linearGradient17);stroke-width:1.79705;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+     style="fill:#00d400;fill-opacity:1;stroke:url(#linearGradient17);stroke-width:1.79705;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
      d="m 28.849322,61.105269 c -0.786358,0.786359 -1.271656,1.874074 -1.271658,3.079173 l -6.14e-4,7.097783 c 0,2.410195 1.940635,4.35083 4.350829,4.35083 h 27.90634 l -6.17e-4,27.905725 c 2e-6,2.4102 1.940636,4.35083 4.350829,4.35083 l 7.097792,-6.1e-4 c 2.410191,0 4.35021,-1.94002 4.350214,-4.35021 l -7e-6,-27.906352 27.90634,1e-5 c 2.41019,-7e-6 4.35083,-1.94064 4.35084,-4.350835 l -2e-5,-7.097174 c 1e-5,-2.410195 -1.94063,-4.350828 -4.35083,-4.350828 l -27.905714,6.16e-4 V 31.927888 c 2e-6,-2.410199 -1.940632,-4.350833 -4.35083,-4.350829 l -7.097779,6.11e-4 c -2.4102,2e-6 -4.350218,1.94002 -4.35022,4.35022 l 2e-6,27.906337 h -27.90634 c -1.205098,0 -2.292197,0.484683 -3.078557,1.271042 z" />
 </g>
 <metadata
