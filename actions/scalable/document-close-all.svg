@@ -207,19 +207,6 @@
          stdDeviation="1.5439877"
          id="feGaussianBlur12" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1"
-       x="-0.05164499"
-       y="-0.10446896"
-       width="1.10329"
-       height="1.2089379">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.50568894"
-         id="feGaussianBlur1" />
-    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -288,6 +275,30 @@
        style="display:inline;fill:#c2c2c2;stroke:url(#linearGradient4);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:83.2;paint-order:markers stroke fill"
        d="m 108.32861,1.0583337 c -1.44378,0 -2.60634,1.1619384 -2.60634,2.6057099 v 1.8540388 1.85341 10.7696246 h 28.6517 V 7.3714924 5.5180824 3.6640436 c 0,-1.4437715 -1.16256,-2.6057099 -2.60633,-2.6057099 z m 23.44091,2.5931405 0.027,11.9147288 H 108.29593 V 3.6514742 Z"
        sodipodi:nodetypes="ssccccccsssccccc" />
+    <rect
+       style="fill:#ff6600;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       id="rect9"
+       width="23.499928"
+       height="11.61736"
+       x="108.2696"
+       y="3.6514745"
+       ry="0" />
+    <rect
+       style="fill:#00ff00;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       id="rect8"
+       width="23.499928"
+       height="11.61736"
+       x="73.393066"
+       y="3.6514745"
+       ry="0" />
+    <rect
+       style="fill:#0000ff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       id="rect7"
+       width="23.499928"
+       height="11.61736"
+       x="38.542877"
+       y="3.6514745"
+       ry="0" />
     <path
        id="path4"
        style="display:inline;fill:#c2c2c2;stroke:url(#linearGradient5);stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:83.2;paint-order:markers stroke fill"
@@ -305,12 +316,12 @@
        style="display:inline;fill:url(#radialGradient12);stroke:none;stroke-width:1.79705;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:83.2;paint-order:markers stroke fill;filter:url(#filter12)"
        d="m 20.746268,7.4110656 c -4.43621,0.0028 -8.87249,-0.0019 -13.3085897,0.03516 0.005,40.2050784 0.009,80.4101564 0.0137,120.6152244 40.1927097,0 80.3854197,0 120.5781317,0 0,-35.478506 0,-70.957021 0,-106.435537 -33.086402,-0.01033 -66.174552,0.0404 -99.259772,-0.101562 -3.59952,-0.659914 -5.91997,-4.600396 -5.36914,-8.103516 0.002,-2.005224 -5e-5,-4.0104394 -0.0137,-6.0156254 -0.88021,0.0019 -1.76042,0.0039 -2.64063,0.0059 z M 39.836118,34.50677 c 4.7475,0.01684 9.05035,2.787557 12.03947,6.314842 5.29283,5.291537 10.58566,10.583074 15.8785,15.874611 6.73401,-6.641586 13.23703,-13.532686 20.26706,-19.863662 6.20515,-4.279263 15.763942,-2.315867 19.685732,4.152415 3.77982,5.684824 2.60573,14.096191 -2.67959,18.452043 -5.743482,5.775117 -11.493572,11.543641 -17.251722,17.304126 6.64384,6.731242 13.524822,13.242935 19.861912,20.266935 4.28186,6.20251 2.33038,15.76997 -4.14843,19.68432 -5.643452,3.76561 -14.002182,2.64386 -18.362522,-2.58817 -5.80765,-5.76562 -11.60503,-11.54153 -17.39002,-17.32988 -6.70747,6.6275 -13.22006,13.46536 -20.19835,19.8095 -6.1054,4.268 -15.53717,2.46944 -19.57387,-3.81296 -3.82351,-5.46353 -2.99267,-13.61345 1.86884,-18.179226 3.37273,-3.242833 6.62121,-6.617948 9.94557,-9.91227 2.64349,-2.65064 5.28698,-5.301281 7.93046,-7.951921 -6.62827,-6.707845 -13.47854,-13.210194 -19.8153,-20.196442 -4.30539,-6.143292 -2.45011,-15.680965 3.96115,-19.641625 2.34925,-1.554086 5.1636,-2.397481 7.98111,-2.382636 z" />
     <rect
-       style="fill:#ffff00;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter1)"
+       style="fill:#ffff00;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
        id="rect6"
        width="23.499928"
        height="11.61736"
-       x="3.6663516"
-       y="3.7108483"
+       x="3.6971471"
+       y="3.6514745"
        ry="0" />
   </g>
 </svg>
