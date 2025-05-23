@@ -108,7 +108,7 @@
   <path
      id="path2"
      style="baseline-shift:baseline;display:inline;overflow:visible;fill:#c2c2c2;fill-opacity:1;stroke:url(#linearGradient37);stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;stroke-dasharray:none;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000"
-     d="M 60.223197 8.3462605 C 27.521973 8.3462605 0.83715819 35.03159 0.83715819 67.733332 C 0.83715819 85.988394 9.1526618 102.36847 22.188309 113.27836 L 33.766414 101.70025 C 23.679378 93.848504 17.219621 81.581968 17.219621 67.733332 C 17.219621 43.885479 36.375719 24.727173 60.223197 24.727173 C 84.070673 24.727175 103.22832 43.885479 103.22832 67.733332 L 119.61079 67.733332 C 119.61079 35.03159 92.924423 8.3462605 60.223197 8.3462605 z " />
+     d="M 60.223197 8.3462605 C 27.521973 8.3462605 0.83715819 35.03159 0.83715819 67.733332 C 0.83715819 85.328138 8.5619849 101.18111 20.792529 112.07326 L 31.612024 99.907079 C 22.768923 92.045106 17.219621 80.5688 17.219621 67.733332 C 17.219621 43.885479 36.375719 24.727173 60.223197 24.727173 C 84.070673 24.727175 103.22832 43.885479 103.22832 67.733332 L 119.61079 67.733332 C 119.61079 35.03159 92.924423 8.3462605 60.223197 8.3462605 z " />
   <path
      style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#c2c2c2;stroke-width:1.74234;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000"
      d="m 111.41953,107.96265 -23.226408,-40.229316 46.452808,-2e-6 z"
@@ -119,6 +119,11 @@
      cx="60.223961"
      cy="67.73333"
      r="16.397446" />
+  <path
+     id="path3"
+     style="opacity:0.434426;fill:#2f1700;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+     d="m -121.28802,63.729389 7.40912,67.833581 h -67.73333 z"
+     sodipodi:nodetypes="cccc" />
 </g>
 <metadata
    id="metadata1">
