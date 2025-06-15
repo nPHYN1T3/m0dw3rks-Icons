@@ -25,9 +25,9 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="197.12699"
-     inkscape:cy="260.02354"
+     inkscape:zoom="0.46093749"
+     inkscape:cx="-437.15255"
+     inkscape:cy="81.355934"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -37,26 +37,17 @@
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient1"
+       id="linearGradient3"
        inkscape:collect="always">
       <stop
-         style="stop-color:#ba131a;stop-opacity:1;"
+         style="stop-color:#e71820;stop-opacity:1;"
          offset="0"
-         id="stop2" />
+         id="stop3" />
       <stop
-         style="stop-color:#740c10;stop-opacity:1;"
+         style="stop-color:#ba131a;stop-opacity:0;"
          offset="1"
-         id="stop1" />
+         id="stop4" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
-       x1="67.73333"
-       y1="0"
-       x2="67.73333"
-       y2="135.46666"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -70,13 +61,22 @@
          stdDeviation="0.65128301"
          id="feGaussianBlur13" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="67.73333"
+       y1="0"
+       x2="67.73333"
+       y2="135.46666"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="display:inline;opacity:1;fill:url(#linearGradient2);stroke:none;stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
+       style="display:inline;opacity:1;fill:#800000;stroke:none;stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
        id="rect3"
        width="135.46666"
        height="135.46666"
@@ -85,7 +85,7 @@
        ry="0" />
     <path
        id="rect4"
-       style="display:inline;opacity:1;fill:#ba131a;stroke-width:8.46668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke;fill-opacity:1"
+       style="display:inline;opacity:1;fill:url(#linearGradient4);fill-opacity:1;stroke-width:8.46668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
        d="M 16.933333,0 0,19.352307 V 38.704614 L 33.866666,0 Z M 50.799999,0 0,58.056921 V 77.409744 L 67.733332,0 Z M 84.666666,0 0,96.762051 V 116.11436 L 101.6,0 Z M 118.53333,0 0,135.46666 H 16.933333 L 135.46666,0 Z M 135.46666,19.352307 33.866666,135.46666 H 50.799999 L 135.46666,38.704614 Z m 0,38.704614 -67.733328,77.409739 H 84.666666 L 135.46666,77.409744 Z m 0,38.70513 L 101.6,135.46666 h 16.93333 l 16.93333,-19.3523 z" />
     <path
        id="path13"
