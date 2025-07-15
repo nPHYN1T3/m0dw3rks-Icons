@@ -14,7 +14,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
      id="namedview7"
      pagecolor="#242424"
      bordercolor="#666666"
@@ -418,4 +421,6 @@
          id="path4347"
          d="m 222.6637,54.567779 c 1.03131,-0.06292 12.286,-7.415758 12.94854,-7.417599 -4.33289,1.048753 -9.25382,3.538796 -12.94854,7.417599 z"
          style="opacity:0.8;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
-         inkscape:connector-curvature="0" /></g></g></svg>
+         inkscape:connector-curvature="0" /></g></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:description>Typically if there is an official logo I will use it. While some receive tweaks and fixes I am not taking credit for the logo art.</dc:description></cc:Work></rdf:RDF></metadata></svg>
