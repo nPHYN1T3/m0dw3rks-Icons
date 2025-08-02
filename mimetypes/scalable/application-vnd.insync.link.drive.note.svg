@@ -9,12 +9,12 @@
    id="svg5"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="application-vnd.insync.link.drive.note.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview7"
      pagecolor="#242424"
      bordercolor="#666666"
@@ -25,30 +25,24 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.92187498"
-     inkscape:cx="537.49154"
-     inkscape:cy="434.98306"
+     inkscape:zoom="1.84375"
+     inkscape:cx="350.1017"
+     inkscape:cy="133.9661"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2">
-    <linearGradient
+     inkscape:current-layer="layer1" /><defs
+     id="defs2"><linearGradient
        id="linearGradient19"
-       inkscape:collect="always">
-      <stop
+       inkscape:collect="always"><stop
          style="stop-color:#ffe700;stop-opacity:0;"
          offset="0"
-         id="stop20" />
-      <stop
-         style="stop-color:#ffff00;stop-opacity:1;"
+         id="stop20" /><stop
+         style="stop-color:#ffff7b;stop-opacity:1;"
          offset="1"
-         id="stop19" />
-    </linearGradient>
-    <linearGradient
+         id="stop19" /></linearGradient><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient19"
        id="linearGradient20"
@@ -56,21 +50,20 @@
        y1="0"
        x2="67.73333"
        y2="135.46666"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <g
+       gradientUnits="userSpaceOnUse" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       id="rect4"
-       style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke-width:8.46668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
-       d="M 50.799999,135.46666 0,77.409739 V 58.056916 l 67.733332,77.409744 z m 33.866667,0 L 0,38.704609 V 19.3523 l 101.6,116.11436 z m 33.866664,0 L 0,0 H 16.933333 L 135.46666,135.46666 Z M 135.46666,116.11435 33.866666,0 h 16.933333 l 84.666661,96.762046 z m 0,-38.704611 L 67.733332,0 h 16.933334 l 50.799994,58.056916 z m 0,-38.70513 L 101.6,0 h 16.93333 l 16.93333,19.3523 z"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
-    <path
+     id="layer1"><path
        id="rect3"
        style="display:inline;opacity:1;fill:url(#linearGradient20);stroke-width:8.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;paint-order:fill markers stroke"
        d="M 0,0 H 135.46666 V 135.46666 H 44.449998 L 0,91.016657 Z"
-       sodipodi:nodetypes="cccccc" />
-  </g>
-</svg>
+       sodipodi:nodetypes="cccccc" /><path
+       id="rect1"
+       style="fill:#ffff6c;fill-opacity:1;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       d="M 16.746262,7.9999991e-7 135.46666,118.7204 V 100.75974 L 34.706922,7.9999991e-7 Z m 35.92133,0 L 135.46666,82.799597 V 64.838936 L 70.627732,7.9999991e-7 Z m 35.9208,0 L 135.46666,46.878276 V 28.917615 L 106.54853,7.9999991e-7 Z m 35.920798,0 L 135.46666,10.956954 V 7.9999991e-7 Z M 2.4999998e-6,1.2143969 V 19.175057 L 116.29212,135.46666 h 17.96067 z m 0,35.9208041 V 55.095862 L 80.370802,135.46666 h 17.96066 z m 0,35.920805 v 17.96066 L 44.450002,135.46666 h 17.96014 z" /><rect
+       style="fill:#ffff6c;fill-opacity:1;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       id="rect2"
+       width="135.46666"
+       height="23.541637"
+       x="0"
+       y="0" /></g></svg>

@@ -25,17 +25,41 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="340.5"
-     inkscape:cy="381"
-     inkscape:window-width="3233"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="314.66252"
+     inkscape:cy="366.28131"
+     inkscape:window-width="3256"
      inkscape:window-height="1080"
-     inkscape:window-x="1887"
+     inkscape:window-x="1864"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient15"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop15" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
     <linearGradient
        id="linearGradient14"
        inkscape:collect="always">
@@ -314,6 +338,36 @@
          stdDeviation="0.30967882"
          id="feGaussianBlur26" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient11"
+       x1="197.68208"
+       y1="47.572369"
+       x2="197.68208"
+       y2="79.058868"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-120.85928,47.333433)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15"
+       id="linearGradient12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(120,114.49919,18.235036)"
+       x1="197.68208"
+       y1="47.572369"
+       x2="197.68208"
+       y2="79.058868" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15"
+       id="linearGradient16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-120,141.82716,88.013168)"
+       x1="197.68208"
+       y1="47.572369"
+       x2="197.68208"
+       y2="79.058868" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -335,7 +389,8 @@
        d="M 99.10961,94.90579 49.555009,9.074727 85.912288,9.0743691 135.46666,94.90579 Z"
        sodipodi:nodetypes="ccccc" />
     <g
-       id="g26">
+       id="g26"
+       style="display:inline;opacity:0.4">
       <path
          id="path6"
          style="opacity:0.4;fill:url(#linearGradient8);stroke-width:7.40833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter25)"
@@ -352,12 +407,6 @@
          d="M 18.179082,126.39197 72.714767,94.905778 36.357335,94.90576 Z"
          clip-path="url(#clipPath25)" />
     </g>
-    <path
-       id="path12"
-       style="display:inline;mix-blend-mode:overlay;fill:url(#linearGradient13);stroke-width:7.40833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill;filter:url(#filter17)"
-       d="m -149.98277,117.92338 c 29.7819,0 59.563798,0 89.345701,0 4.42904,-7.67253 8.85807,-15.34505 13.28711,-23.017578 -29.781253,0 -59.562501,0 -89.343751,0 -4.42969,7.672528 -8.85937,15.345048 -13.28906,23.017578 z"
-       transform="rotate(120,-21.233236,125.33312)"
-       clip-path="url(#clipPath16)" />
     <g
        id="g20"
        style="display:inline">
@@ -380,5 +429,20 @@
          transform="translate(175.48917,4.23446)"
          clip-path="url(#clipPath16)" />
     </g>
+    <path
+       id="path4"
+       style="mix-blend-mode:soft-light;fill:url(#linearGradient11);stroke-width:7.40833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       d="m 36.35747,94.905802 h 99.10919 l -18.17833,31.486498 -99.10939,-3.7e-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path11"
+       style="display:none;mix-blend-mode:soft-light;fill:url(#linearGradient12);stroke-width:7.40833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       d="M 67.733536,40.560861 18.17894,126.39194 -2.9519683e-6,94.905789 49.555013,9.0747287 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path15"
+       style="mix-blend-mode:soft-light;fill:url(#linearGradient16);stroke-width:7.40833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12;paint-order:markers stroke fill"
+       d="M 99.109607,94.905795 49.55501,9.0747201 85.912288,9.0743691 135.46666,94.905805 Z"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
