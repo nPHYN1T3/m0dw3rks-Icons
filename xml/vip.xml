@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
-<mime-type type="audio/x-vip">
-  <comment>Samplitude Project</comment>
-  <acronym>vip</acronym>
-  <glob pattern="*.vip"/>
-  <icon name="audio-x-vip"/>
-</mime-type>
-</mime-info>
