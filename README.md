@@ -1,6 +1,7 @@
 m0dw3rks-Icons [ m0dw3rks.com ] My personal icons primarily for uncommon mimetypes and applications.
 
-# ***I am removing my work from github soon and be available on my website. I hope to be making this transition before August 21st 2025.
+# ***I am removing my work from github.
+The icon set will be available on my website. I hope to be making this transition before August 21st 2025.
 
 Right now the state of the set is incomplete, with several thousand needing to be done yet. There are lots of included icons that are uninspired or "roughed in" for now. I design things to fit what it represents rather than adhering to a cohesive style. This also lends itself to icons being easier to identify since not everything is a square or circle with something inside. Color and shape allow icons to stand out from each other. Hydraulic systems for compressed file formats, colored speakers for audio formats, "mix tapes" for playlist formats, tons of color variance for things like color coded ssh sessions, "sided" browser icons for multi-monitor setups, loose leaf and a pencil for text files, edge perf dot matrix print outs for log files and Satanic rituals for printers...am I right?!
 
